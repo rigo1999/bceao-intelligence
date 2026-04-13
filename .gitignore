@@ -3,9 +3,7 @@
 *.env.*
 !.env.example
 
-# Data (PDFs, vectorstore, cache — too large and regenerable)
-data/raw/
-data/processed/
+# Data générée (vectorstore et cache — auto-régénérables)
 data/vectorstore/
 data/response_cache.db
 data/*.db
@@ -48,3 +46,7 @@ desktop.ini
 
 # Scratch / temp
 scratch/
+
+# Fichiers de travail locaux
+"README copy.md"
+ollama_list.txt

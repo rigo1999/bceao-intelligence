@@ -1,0 +1,2737 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<noscript><meta http-equiv="Refresh" content="0; URL=/fr/big_pipe/no-js?destination=/fr/node" />
+</noscript><link rel="canonical" href="https://www.bceao.int/fr" />
+<link rel="shortlink" href="https://www.bceao.int/fr" />
+<meta name="description" content="La Banque Centrale des États de l’Afrique de l’Ouest (BCEAO) est un établissement public international située à Dakar, au Sénégal. Elle est l&#039;Institut d&#039;émission commun aux États membres de l&#039;Union Monétaire Ouest Africaine (UMOA)." />
+<meta property="og:image" content="https://www.bceao.int/themes/medianet/image/png/logo_fr.png" />
+<meta property="og:image:url" content="https://www.bceao.int/sites/default/files/inline-images/bceao_share_0.png" />
+<meta property="og:image:secure_url" content="https://www.bceao.int/sites/default/files/inline-images/bceao_share_0.png" />
+<meta name="google-site-verification" content="r10oTIF2jWkGDJ_m6KWK_eTSE3DTKZI7k3SmdRgQ0-g" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-EKY7Y1DVCH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-EKY7Y1DVCH');
+</script>
+<link rel="shortcut icon" href="/sites/default/files/fav_0.png" type="image/png" />
+
+    <title>BCEAO | Banque Centrale des Etats de l’Afrique de l’Ouest</title>
+    <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/container-inline.module.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/clearfix.module.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/details.module.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/hidden.module.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/item-list.module.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/js.module.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/nowrap.module.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/position-container.module.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/progress.module.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/reset-appearance.module.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/resize.module.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-counter.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-counters.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-general-info.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/modules/ckeditor_bootstrap_tabs/css/tabs.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/views/views.module.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/modules/webform/css/webform.form.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/modules/webform/css/webform.element.details.toggle.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/modules/webform/css/webform.element.message.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/tabs.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/core/modules/layout_discovery/layouts/onecol/onecol.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/modules/webform/css/webform.ajax.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/modules/we_megamenu/assets/includes/bootstrap/css/bootstrap.min.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/modules/we_megamenu/assets/css/we_megamenu_backend.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/themes/medianet/plugins/owlcarousel/dist/assets/owl.carousel.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/themes/medianet/css/magnific-popup.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/themes/medianet/css/animate.min.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/themes/medianet/css/style.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/themes/medianet/css/style2.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/themes/medianet/css/responsive.css?tcuyj1" />
+<link rel="stylesheet" media="all" href="/themes/medianet/css/responsive2.css?tcuyj1" />
+
+    
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+  </head>
+        <body class="page-lang-fr page-frontpage">
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="body">
+  <header>
+    <div class="zone zn_Top"><div class="warrap"><div class="topLogo">  <div>
+    <div id="block-medianet-branding">
+  
+    
+    <a class="logo" href="/fr" title="Accueil" rel="home">
+    <img src="/themes/medianet/image/png/logo_fr.png" alt="Accueil" />
+  </a>
+
+</div>
+
+  </div>
+ </div> <div class="topMenSearch">  <div>
+    <span data-big-pipe-placeholder-id="callback=Drupal%5Cblock%5CBlockViewBuilder%3A%3AlazyBuilder&amp;args%5B0%5D=languageswitchercontent&amp;args%5B1%5D=full&amp;args%5B2%5D&amp;token=rWphBvDxsSJk6y_WW0CH7oQz1kKAlhMmgHaMZy3VaXg"></span><nav role="navigation" aria-labelledby="block-menutop-menu" id="block-menutop" class="blcMenuTop wow fadeInDown">
+            
+  <h2 class="visually-hidden" id="block-menutop-menu">Menu Top</h2>
+  
+
+        
+              <ul>
+              <li>
+        <a href="https://pispi.bceao.int/">PI-SPI</a>
+              </li>
+          <li>
+        <a href="/fr/content/avis-de-recrutement" data-drupal-link-system-path="node/792">Recrutements BCEAO</a>
+              </li>
+          <li>
+        <a href="/fr/appels-offres/appel-candidatures-pour-la-48e-promotion-du-cycle-diplomant-du-cofeb" data-drupal-link-system-path="node/8102">COFEB</a>
+              </li>
+          <li>
+        <a href="https://www.bceao.int/fr/content/prix-abdoulaye-fadiga-2026">Prix Abdoulaye FADIGA</a>
+              </li>
+          <li>
+        <a href="/fr/content/fintech-et-digitalisation-des-services-financiers-dans-luemoa" data-drupal-link-system-path="node/6309">Les FinTech dans l&#039;UEMOA</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-reseauxsociaux" class="blcRs wow fadeInDown">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <ul>
+	<li><a class="ytb" href="https://www.youtube.com/user/bceaoChannel" target="_blank">Youtube</a></li>
+</ul>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+<div class="clear"></div>   <div>
+    <div class="views-exposed-form blcSearch" novalidate="" data-drupal-selector="views-exposed-form-search-bceao-page-1" id="block-exposedformsearch-bceaopage-1">
+  
+    
+      <form action="/fr/search-bceao" method="get" id="views-exposed-form-search-bceao-page-1" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-item-search-api-fulltext js-form-item-search-api-fulltext">
+      <label for="edit-search-api-fulltext">Mots clés</label>
+        <input data-msg-required="Champ obligatoire." data-msg-minlength="Veuillez entrer au moins 3 caractères." data-drupal-selector="edit-search-api-fulltext" type="text" id="edit-search-api-fulltext" name="search_api_fulltext" value="" size="30" maxlength="128" class="form-text" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-search-bceao" type="submit" id="edit-submit-search-bceao" value="Recherche" class="button js-form-submit form-submit" />
+</div>
+
+
+</form>
+
+  </div>
+
+  </div>
+ </div></div> </div>
+    <div class="zone zn_Menu"><div class="warrap">   <div>
+    <div id="block-mainnavigation" class="blcMainMenu">
+  
+    
+      <div class="region-we-mega-menu">
+	<a class="navbar-toggle collapsed">
+	    <span class="icon-bar"></span>
+	    <span class="icon-bar"></span>
+	    <span class="icon-bar"></span>
+	</a>
+	<nav  class="main navbar navbar-default navbar-we-mega-menu mobile-collapse hover-action" data-menu-name="main" data-block-theme="medianet" data-style="Default" data-animation="Fading" data-delay="" data-duration="" data-autoarrow="1" data-alwayshowsubmenu="1" data-action="hover" data-mobile-collapse="1">
+	  <div class="container-fluid">
+	    <ul  class="we-mega-menu-ul nav nav-tabs">
+  <li  class="we-mega-menu-li dropdown-menu left" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="b0bf78cd-d472-4cf9-94b9-4c7d3f018aa6" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="left" data-target="">
+      <a class="we-mega-menu-li" title="" href="/fr/content/presentation-de-lumoa" target="">
+      UMOA    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="1024" data-class="" style="width: 1024px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span4 hidden-collapse blocMenuTxt blocTxt" data-element-type="we-mega-menu-col" data-width="4" data-block="menu1bloc" data-blocktitle="0" data-hidewhencollapse="1" data-class="blocMenuTxt blocTxt">
+    <div class="type-of-block"><div class="block-inner"><div id="block-menu1bloc">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p><a href="/content/presentation-de-lumoa"><img alt="UMOA" data-entity-type="file" data-entity-uuid="117eb97f-d659-41a4-b2c6-dcfcf8d5855c" src="/sites/default/files/inline-images/umoa.png" /> </a></p>
+
+<h2>A propos de l'Union Monétaire Ouest Africaine</h2>
+
+<p>L’Union Monétaire Ouest Africaine (UMOA) se caractérise par la reconnaissance d’une même unité monétaire, le Franc de la Communauté Financière Africaine (F.CFA)...</p>
+
+<div class="blclink"><a href="/content/presentation-de-lumoa">Lire plus</a></div>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+</div></div>
+
+</div>
+<div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="dbdb1f76-29eb-46d1-b1ea-4b2ad2fee138" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/fr/content/la-conference-des-chefs-detat-et-de-gouvernement" target="">
+      La Conférence des Chefs d’Etat et de Gouvernement    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="d08b88a0-d760-43b6-bbf2-bdb46cf944aa" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/fr/content/le-conseil-des-ministres" target="">
+      Le Conseil des Ministres    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="1b112e38-4c75-4e93-83e4-95697a12a339" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/fr/content/presentation-de-la-commission-bancaire" target="">
+      La Commission Bancaire    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="4b302d02-3130-464a-b353-2dcd6483c8bb" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/fr/content/le-conseil-regional-de-lepargne-publique-et-des-marches-financiers" target="">
+      Le Conseil Régional de l’Epargne et des Marchés Financiers    </a>
+    
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span4 blocTxt" data-element-type="we-mega-menu-col" data-width="4" data-block="menu1bloc2" data-blocktitle="0" data-hidewhencollapse="" data-class="blocTxt">
+    <div class="type-of-block"><div class="block-inner"><div id="block-menu1bloc2">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p><a href="https://www.boad.org/" target="_blank"><img alt="banner1 " data-entity-type="file" data-entity-uuid="dfbd55dd-1913-4ce4-8452-cb7a26889b9f" src="/sites/default/files/inline-images/banner1_0.gif" /></a></p>
+
+<p><a href="/etats-membres"><img alt="carte umoa" data-entity-type="file" data-entity-uuid="697781c8-aea6-4c7c-907c-07609a89f153" src="/sites/default/files/inline-images/bloc-menu-bceap_0.jpg" /></a></p>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+</div></div>
+
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="BCEAO" data-id="8b152055-e10f-4726-91cd-2494115099d7" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="BCEAO" href="/fr/content/presentation-de-la-bceao" target="">
+      BCEAO    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="1024" data-class="" style="width: 1024px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span4 blocTxt" data-element-type="we-mega-menu-col" data-width="4" data-block="menu_bceao" data-blocktitle="0" data-hidewhencollapse="" data-class="blocTxt">
+    <div class="type-of-block"><div class="block-inner"><div id="block-menu-bceao">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p><a href="/content/presentation-de-la-bceao"><img alt="BCEAO" data-entity-type="file" data-entity-uuid="f89af548-6cb0-4beb-9872-a5453e10d1bc" src="/sites/default/files/inline-images/bceao.png" /></a></p>
+
+<h2>A propos de la BCEAO</h2>
+
+<p>La Banque Centrale des Etats de l’Afrique de l’Ouest est un établissement public international dont le siège est fixé à Dakar. Elle est l’Institut d’émission commun aux états membres de l’UMOA...</p>
+
+<div class="blclink"><a href="/content/presentation-de-la-bceao">Lire plus</a></div>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+</div></div>
+
+</div>
+<div  class="we-mega-menu-col span4 blocMenuTxt" data-element-type="we-mega-menu-col" data-width="4" data-block="" data-blocktitle="0" data-hidewhencollapse="0" data-class="blocMenuTxt">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Missions" data-id="20bf792f-894c-43bd-8633-7067ecf52d53" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Missions" href="/fr/content/missions-de-la-bceao" target="">
+      Missions    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Cadre Institutionnel" data-id="28b0ac74-1c68-4491-b2dc-22fbc0c00e06" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Cadre Institutionnel" href="/fr/content/cadre-institutionnel" target="">
+      Cadre Institutionnel    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Organes" data-id="6437b44d-009d-4ec0-8dae-dd8f9fbc4eff" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Organes" href="/fr/content/organes-de-la-bceao" target="">
+      Organes    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Organigramme" data-id="5ecff36a-59f4-4a0a-a7e9-8b709c509b48" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Organigramme" href="/fr/content/organigramme-de-la-bceao" target="">
+      Organigramme    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Etats Membres" data-id="41898731-9710-4a31-8e3c-2a08ab29b015" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Etats Membres" href="/fr/etats-membres" target="">
+      Etats Membres    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Dates clés" data-id="4488f109-0dc9-4b52-8ebe-65f96f20bcd8" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Dates clés" href="/fr/content/dates-cles" target="">
+      Dates clés    </a>
+    
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="lesorganesdelabceao" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+    <div class="type-of-block"><div class="block-inner"><div class="linkBlock blcRight">
+<div id="block-lesorganesdelabceao">
+  
+      <h2>Organes de la BCEAO</h2>
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+      <div>
+              <div><a href="/fr/content/le-gouverneur">Le Gouverneur</a></div>
+              <div><a href="/fr/content/le-comite-de-politique-monetaire">Le Comité de Politique Monétaire</a></div>
+              <div><a href="/fr/content/le-conseil-dadministration">Le Conseil d’Administration</a></div>
+              <div><a href="/fr/content/le-comite-daudit">Le Comité d’Audit</a></div>
+              <div><a href="/fr/content/le-conseil-national-du-credit">Les Conseils Nationaux du Crédit</a></div>
+          </div>
+  
+    </div>
+  </div>
+
+  </div>
+</div></div></div>
+
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="031db3d9-6e0c-4e94-a6c0-c5360f7c298c" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/fr/content/billets-et-pieces" target="">
+      Billets et pièces    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="1024" data-class="" style="width: 1024px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span4 blocTxt" data-element-type="we-mega-menu-col" data-width="4" data-block="menu_billetetpiece" data-blocktitle="0" data-hidewhencollapse="" data-class="blocTxt">
+    <div class="type-of-block"><div class="block-inner"><div id="block-menu-billetetpiece">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p><a href="/content/presentation-du-musee-de-la-monnaie"><img alt="musée de la monnaie BCEAO" data-entity-type="file" data-entity-uuid="d29e8d55-bc96-406e-8d50-9003b17a3fbf" src="/sites/default/files/inline-images/musee.png" /></a></p>
+
+<h2>A propos du Musée de la Monnaie</h2>
+
+<p>Le Musée de la Monnaie de la BCEAO a été inauguré, le 13 mai 2002, par Son Excellence, Maître Abdoulaye WADE, Président de la République du Sénégal...</p>
+
+<div class="blclink"><a href="/content/presentation-du-musee-de-la-monnaie">Lire plus</a></div>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+</div></div>
+
+</div>
+<div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Histoire du Franc CFA" data-id="95d08979-bd5b-4682-aad7-ed58420766a6" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Histoire du Franc CFA" href="/fr/content/histoire-du-franc-cfa" target="">
+      Histoire du Franc CFA    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="6cd9a897-e434-4c37-b2b2-1f9f5a80e63a" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="https://www.bceao.int/album-photo/anciens-billets-de-la-bceao-retires-de-la-circulation" target="">
+      Billets démonétisés    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="434bab03-0a37-45bf-a1de-a5afab8ab0e4" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="https://www.bceao.int/album-photo/billets-anterieurs-la-bceao" target="">
+      Billets antérieurs à la BCEAO    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Billets et pièces" data-id="5e382c3c-f563-41d6-a9b0-e725fa1e626d" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Billets et pièces" href="/fr/content/billets-et-pieces" target="">
+      Billets ayant cours légal    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Pièces en circulation" data-id="04aae523-0d30-429b-9d05-4654da69c879" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Pièces en circulation" href="/fr/content/pieces-en-circulation" target="">
+      Pièces en circulation    </a>
+    
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span4 blocTxt" data-element-type="we-mega-menu-col" data-width="4" data-block="menu_billet_right" data-blocktitle="0" data-hidewhencollapse="" data-class="blocTxt">
+    <div class="type-of-block"><div class="block-inner"><div id="block-menu-billet-right">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p><a href="/content/visite-virtuelle-du-musee-de-la-monnaie"><img alt="visite virtuelle" data-entity-type="file" data-entity-uuid="a40562fe-fe7f-4c9e-97df-7e985e13f57d" src="/sites/default/files/inline-images/visite.png" /></a></p>
+
+<p><a href="/album-photo/billets-anterieurs-la-bceao"><img alt="Anciens billets " data-entity-type="file" data-entity-uuid="fb0c0335-cbd5-4b43-882f-5e262ea6205c" src="/sites/default/files/inline-images/billet.png" /></a></p>
+
+<p><a href="/album-photo/anciens-billets-de-la-bceao-retires-de-la-circulation"><img alt="Anciens billets BCEAO" data-entity-type="file" data-entity-uuid="a61f66b1-6513-49d2-a008-86217fe4d21e" src="/sites/default/files/inline-images/Sans-titre-s3.png" /></a></p>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+</div></div>
+
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="ec891d77-7774-4a22-9310-48ee55a19fe2" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a href='#' data-drupal-link-system-path="<front>" class="we-megamenu-nolink">
+      Politique monétaire </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="700" data-class="" style="width: 700px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span4 blocTxt" data-element-type="we-mega-menu-col" data-width="4" data-block="menu_politiquemonetaire" data-blocktitle="0" data-hidewhencollapse="" data-class="blocTxt">
+    <div class="type-of-block"><div class="block-inner"><div id="block-menu-politiquemonetaire">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p><a href="/content/le-comite-de-politique-monetaire"><img alt="comité de politique monétaire" data-entity-type="file" data-entity-uuid="0f5cb7c2-6bba-42fc-a529-675f893d2299" src="/sites/default/files/inline-images/CPM-Juin-2025.jpg" /> </a></p>
+
+<h2>Le Comité de Politique Monétaire</h2>
+
+<p>Le Comité de Politique Monétaire est chargé de la définition de la politique monétaire au sein de l’UMOA, ainsi que de ses instruments...</p>
+
+<div class="blclink"><a href="/content/le-comite-de-politique-monetaire">Lire plus</a></div>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+</div></div>
+
+</div>
+<div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="9528f919-ba9f-47e9-84e9-a5f8b3bf0d3e" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/fr/content/le-comite-de-politique-monetaire" target="">
+      Présentation du Comité de Politique Monétaire    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Réunions du Comité de Politique Monétaire" data-id="11fba3a2-af8a-4a3c-b8af-91bc0ff37dc6" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Réunions du Comité de Politique Monétaire" href="/fr/reunions" target="">
+      Réunions du Comité de Politique Monétaire    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Objectifs de la politique monétaire" data-id="775f9a4b-04d5-4013-b38d-ad5816151ad2" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Objectifs de la politique monétaire" href="/fr/content/objectifs-de-la-politique-monetaire" target="">
+      Objectifs de la politique monétaire    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Instruments de mise en oeuvre de la Politique Monétaire" data-id="724ac469-6246-42a8-8823-f1bf3543a8fd" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Instruments de mise en oeuvre de la Politique Monétaire" href="/fr/content/instruments-de-mise-en-oeuvre-de-la-politique-monetaire" target="">
+      Instruments de mise en oeuvre de la politique monétaire    </a>
+    
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span4 blocTxt" data-element-type="we-mega-menu-col" data-width="4" data-block="rapportssurlapolitiquemonetaire20162017" data-blocktitle="0" data-hidewhencollapse="" data-class="blocTxt">
+    <div class="type-of-block"><div class="block-inner"><div class="fileBlock blcRight">
+<div id="block-rapportssurlapolitiquemonetaire20162017">
+  
+      <h2>Rapports sur la politique monétaire</h2>
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+      <div>
+              <div><span target="_blank" class="file file--mime-application-pdf file--application-pdf"><a href="https://www.bceao.int/sites/default/files/2023-07/Rapport%20sur%20la%20politique%20mone%CC%81taire%20-%20Juin%202023.pdf" type="application/pdf; length=2645985" target="_blank" title="Rapport sur la politique monétaire - Juin 2023.pdf">Rapport sur la politique monétaire - Juin 2023</a></span>
+<div class="infoFile"><a href="https://www.bceao.int/sites/default/files/2023-07/Rapport%20sur%20la%20politique%20mone%CC%81taire%20-%20Juin%202023.pdf" type="application/pdf; length=2645985" target="_blank" title="Rapport sur la politique monétaire - Juin 2023.pdf">Télécharger</a> / pdf / 2.65M </div>
+</div>
+              <div><span class="file file--mime-application-pdf file--application-pdf"><a href="https://www.bceao.int/sites/default/files/2023-05/BCEAO%20-%20Rapport%20sur%20la%20politique%20mone%CC%81taire_Umoa_Mars_2023.pdf" type="application/pdf; length=2278537" target="_blank" title="BCEAO - Rapport sur la politique monétaire_Umoa_Mars_2023.pdf">Rapport sur la politique monétaire - Mars 2023</a></span>
+<div class="infoFile"><a href="https://www.bceao.int/sites/default/files/2023-05/BCEAO%20-%20Rapport%20sur%20la%20politique%20mone%CC%81taire_Umoa_Mars_2023.pdf" type="application/pdf; length=2278537" target="_blank" title="BCEAO - Rapport sur la politique monétaire_Umoa_Mars_2023.pdf">Télécharger</a> / pdf / 2.28M </div>
+</div>
+              <div><span class="file file--mime-application-pdf file--application-pdf"><a href="https://www.bceao.int/sites/default/files/2023-03/Rapport%20sur%20la%20politique%20mone%CC%81taire%20-%20D%C3%A9cembre%202022.pdf" type="application/pdf; length=4182679" target="_blank" title="Rapport sur la politique monétaire - Décembre 2022.pdf">Rapport sur la politique monétaire - Décembre 2022</a></span>
+<div class="infoFile"><a href="https://www.bceao.int/sites/default/files/2023-03/Rapport%20sur%20la%20politique%20mone%CC%81taire%20-%20D%C3%A9cembre%202022.pdf" type="application/pdf; length=4182679" target="_blank" title="Rapport sur la politique monétaire - Décembre 2022.pdf">Télécharger</a> / pdf / 4.18M </div>
+</div>
+              <div><span class="file file--mime-application-pdf file--application-pdf"><a href="https://www.bceao.int/sites/default/files/2023-03/Rapport%20sur%20la%20politique%20mone%CC%81taire%20-%20Septembre%202022.pdf" type="application/pdf; length=2527268" target="_blank" title="Rapport sur la politique monétaire - Septembre 2022.pdf">Rapport sur la politique monétaire - Septembre 2022</a></span>
+<div class="infoFile"><a href="https://www.bceao.int/sites/default/files/2023-03/Rapport%20sur%20la%20politique%20mone%CC%81taire%20-%20Septembre%202022.pdf" type="application/pdf; length=2527268" target="_blank" title="Rapport sur la politique monétaire - Septembre 2022.pdf">Télécharger</a> / pdf / 2.53M </div>
+</div>
+              <div><span class="file file--mime-application-pdf file--application-pdf"><a href="https://www.bceao.int/sites/default/files/2023-03/Rapport%20sur%20la%20politique%20mone%CC%81taire%20-%20Juin%202022.pdf" type="application/pdf; length=2047794" target="_blank" title="Rapport sur la politique monétaire - Juin 2022.pdf">Rapport sur la politique monétaire - Juin 2022</a></span>
+<div class="infoFile"><a href="https://www.bceao.int/sites/default/files/2023-03/Rapport%20sur%20la%20politique%20mone%CC%81taire%20-%20Juin%202022.pdf" type="application/pdf; length=2047794" target="_blank" title="Rapport sur la politique monétaire - Juin 2022.pdf">Télécharger</a> / pdf / 2.05M </div>
+</div>
+          </div>
+  
+    </div>
+  </div>
+
+  </div>
+</div></div></div>
+
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="ecc5318e-f1ea-4b97-9c4f-a77f7c3f02f0" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/fr/content/marches" target="">
+      Marchés    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="700" data-class="" style="width: 700px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span6" data-element-type="we-mega-menu-col" data-width="6" data-block="marchemonetaire" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+    <div class="type-of-block"><div class="block-inner"><div class="linkBlock blcRight">
+<div id="block-marchemonetaire">
+  
+      <h2>Marché Monétaire</h2>
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+      <div>
+              <div><a href="/fr/appels-offres/marche-mon%C3%A9taire">Appel d’offres du marché</a></div>
+              <div><a href="/fr/documents/taux-directeurs-de-la-bceao">Taux directeurs de la BCEAO</a></div>
+              <div><a href="/fr/documents/evolution-du-marche-interbancaire-de-luemoa">Evolution du marché interbancaire de l’UEMOA</a></div>
+              <div><a href="/fr/documents/operations-effectuees-sur-le-marche-interbancaire-de-lumoa-0">Opérations effectuées sur le marché interbancaire de l’UMOA </a></div>
+          </div>
+  
+    </div>
+  </div>
+
+  </div>
+</div></div></div>
+
+</div>
+<div  class="we-mega-menu-col span6" data-element-type="we-mega-menu-col" data-width="6" data-block="marchedestitrespublicsetprivesemisparappelpublic" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+    <div class="type-of-block"><div class="block-inner"><div class="linkBlock blcRight">
+<div id="block-marchedestitrespublicsetprivesemisparappelpublic">
+  
+      <h2>Marché des titres publics et privés émis par appel public</h2>
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+      <div>
+              <div><a href="/fr/appels-offres/appels-offres-marches-titres-publics-prives">Avis d’appel d’offres</a></div>
+              <div><a href="/fr/documents/marche-des-titres-publics-et-prives-emis-par-appel-public">Marché des titres publics et privés émis par appel public</a></div>
+          </div>
+  
+    </div>
+  </div>
+
+  </div>
+</div></div></div>
+
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span" data-element-type="we-mega-menu-col" data-block="" data-blocktitle="" data-hidewhencollapse="0" data-class="">
+  
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span" data-element-type="we-mega-menu-col" data-block="" data-blocktitle="" data-hidewhencollapse="0" data-class="">
+  
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span" data-element-type="we-mega-menu-col" data-block="" data-blocktitle="" data-hidewhencollapse="0" data-class="">
+  
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span" data-element-type="we-mega-menu-col" data-block="" data-blocktitle="" data-hidewhencollapse="0" data-class="">
+  
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span" data-element-type="we-mega-menu-col" data-block="" data-blocktitle="" data-hidewhencollapse="0" data-class="">
+  
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span" data-element-type="we-mega-menu-col" data-block="" data-blocktitle="" data-hidewhencollapse="0" data-class="">
+  
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="d0ac80e9-eec5-49fe-b68e-e3991b4e9c66" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a href='#' data-drupal-link-system-path="<front>" class="we-megamenu-nolink">
+      Stabilité financière</a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="1024" data-class="" style="width: 1024px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Présentation du Comité de Stabilité Financière CSF-UMOA" data-id="5a264a3e-4b97-401c-8081-d8e9d7329629" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Présentation du Comité de Stabilité Financière CSF-UMOA" href="/fr/content/le-comite-de-stabilite-financiere-csf-umoa" target="">
+      Présentation du Comité de Stabilité Financière CSF-UMOA    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Comité de Stabilité Financière dans l’UMOA" data-id="36bb2bfe-fb69-4e64-b2c8-b03cdc83b2c3" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Comité de Stabilité Financière dans l’UMOA" href="/fr/content/comite-de-stabilite-financiere-dans-lumoa" target="">
+      Comité de Stabilité Financière dans l’UMOA    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Surveillance macroprudentielle" data-id="5fb8ce9e-0cee-4f92-beed-7daed3d9922a" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Surveillance macroprudentielle" href="/fr/content/surveillance-macroprudentielle" target="">
+      Surveillance macroprudentielle    </a>
+    
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="reglementation" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+    <div class="type-of-block"><div class="block-inner"><div class="linkBlock blcRight">
+<div id="block-reglementation">
+  
+      <h2>Réglementation</h2>
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+      <div>
+              <div><a href="/fr/reglementations/textes-regissant-la-politique-monetaire">Textes régissant la Politique Monétaire</a></div>
+              <div><a href="/fr/reglementations/reglementation-bancaire">Réglementation bancaire</a></div>
+              <div><a href="/fr/reglementations/reglementation-des-systemes-de-paiement">Réglementation des Systèmes de Paiement</a></div>
+              <div><a href="/fr/reglementations/reglementation-des-systemes-financiers-decentralises">Réglementation des Systèmes Financiers Décentralisés</a></div>
+              <div><a href="/fr/reglementations/reglementation-des-relations-financieres-exterieures">Réglementation des relations financières extérieures</a></div>
+              <div><a href="/fr/reglementations/lutte-contre-le-blanchiment-de-capitaux-et-le-financement-du-terrorisme">Lutte contre le blanchiment de capitaux et le financement du terrorisme</a></div>
+          </div>
+  
+    </div>
+  </div>
+
+  </div>
+</div></div></div>
+
+</div>
+<div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="menu_stabilitefinanciere" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+    <div class="type-of-block"><div class="block-inner"><div id="block-menu-stabilitefinanciere">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p><a href="/content/le-comite-de-stabilite-financiere-csf-umoa"><img alt="comité de stabilité financière" data-entity-type="file" data-entity-uuid="d91ffd9e-7d6c-4a65-92b7-2b7593acb8db" src="/sites/default/files/inline-images/umoa_0_0.jpg" /></a></p>
+
+<h2>A propos du Comité de Stabilité Financière</h2>
+
+<p>Le Comité de Stabilité Financière est chargé de favoriser la concertation, la coopération et la coordination entre les Autorités...</p>
+
+<div class="blclink"><a href="/content/le-comite-de-stabilite-financiere-csf-umoa">Lire plus</a></div>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+</div></div>
+
+</div>
+<div  class="we-mega-menu-col span1" data-element-type="we-mega-menu-col" data-width="1" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  
+</div>
+<div  class="we-mega-menu-col span2" data-element-type="we-mega-menu-col" data-width="2" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  
+</div>
+<div  class="we-mega-menu-col span1" data-element-type="we-mega-menu-col" data-width="1" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="9738bcba-b5cf-4f58-82dd-dc7189ed9da0" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a href='#' data-drupal-link-system-path="<front>" class="we-megamenu-nolink">
+      Systèmes de paiement </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="1024" data-class="" style="width: 1024px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span4 blocTxt" data-element-type="we-mega-menu-col" data-width="4" data-block="sicastar" data-blocktitle="0" data-hidewhencollapse="" data-class="blocTxt">
+    <div class="type-of-block"><div class="block-inner"><div id="block-sicastar">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p><a href="/fr/content/sica-uemoa" title="SICA - UEMOA"><img alt="SICA" data-entity-type="file" data-entity-uuid="c902e6ca-7797-4f68-a13e-1503bb9e0239" src="/sites/default/files/inline-images/sica.jpg" /></a></p>
+
+<p><a href="/fr/content/star-uemoa" title="STAR - UEMOA"><img alt="STAR" data-entity-type="file" data-entity-uuid="d074414f-b227-4acb-a2fb-bf0722315615" src="/sites/default/files/inline-images/Sans%20titre-6%20copie.jpg" /></a></p>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+</div></div>
+
+</div>
+<div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Centralisation des Incidents de Paiement" data-id="be411b58-7673-4bb6-8714-462f19f6162f" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Centralisation des Incidents de Paiement" href="/fr/content/centralisation-des-incidents-de-paiement" target="">
+      Centralisation des Incidents de Paiement    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Surveillance des Systèmes de Paiement" data-id="b23dbce2-22d6-417d-99af-2d75ce8e06e3" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Surveillance des Systèmes de Paiement" href="/fr/content/surveillance-des-systemes-de-paiement" target="">
+      Surveillance des Systèmes de Paiement    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Etablissements de Monnaie Electronique" data-id="9747e368-144c-464b-8dd9-4b7b5c254bda" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Etablissements de Monnaie Electronique" href="/fr/content/etablissements-de-monnaie-electronique" target="">
+      Etablissements de Monnaie Electronique    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Monétique interbancaire régionale" data-id="1291b832-57ba-49cf-9755-372a1cf63e5b" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Monétique interbancaire régionale" href="/fr/content/monetique-interbancaire-regionale" target="">
+      Monétique interbancaire régionale    </a>
+    
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span4 blocTxt" data-element-type="we-mega-menu-col" data-width="4" data-block="systemepaiementmenu" data-blocktitle="0" data-hidewhencollapse="" data-class="blocTxt">
+    <div class="type-of-block"><div class="block-inner"><div id="block-systemepaiementmenu">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p><a href="/publications/ndeg5-systemes-de-paiement-dans-luemoa-0"><img alt="systemepaiementmenu" data-entity-type="file" data-entity-uuid="08ac5904-ae66-4e79-b320-d50ac1018d9f" src="/sites/default/files/inline-images/systeme.jpg" /></a></p>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+</div></div>
+
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu right" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="e4704227-094f-457f-88ea-98a043965060" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="right" data-target="">
+      <a href='#' data-drupal-link-system-path="<front>" class="we-megamenu-nolink">
+      Système bancaire et financier</a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="1024" data-class="" style="width: 1024px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="etablissementsdecredit" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+    <div class="type-of-block"><div class="block-inner"><div class="linkBlock blcRight">
+<div id="block-etablissementsdecredit">
+  
+      <h2>Etablissements de crédit</h2>
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+      <div>
+              <div><a href="/fr/content/organisation-du-systeme-bancaire-fin-decembre-2017-0">Organisation </a></div>
+              <div><a href="/fr/content/paysage-bancaire">Paysage bancaire</a></div>
+              <div><a href="/fr/documents/conditions-de-banque">Conditions de banque</a></div>
+              <div><a href="/fr/documents/taux-dinteret-legal">Taux d&#039;intérêt légal</a></div>
+              <div><a href="/fr/content/presentation-du-dispositif-de-soutien-au-financement-des-pmepmi">Dispositif PME/PMI</a></div>
+          </div>
+  
+    </div>
+  </div>
+
+  </div>
+</div></div></div>
+
+</div>
+<div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="systemesfinanciersdecentralises" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+    <div class="type-of-block"><div class="block-inner"><div class="linkBlock blcRight">
+<div id="block-systemesfinanciersdecentralises">
+  
+      <h2>Systèmes Financiers Décentralisés</h2>
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+      <div>
+              <div><a href="/fr/content/historique-des-systemes-financiers-decentralises">Historique</a></div>
+              <div><a href="/fr/content/les-projets-dappui">Les projets d’appui</a></div>
+              <div><a href="/fr/content/les-centres-de-formation-en-microfinance">Les centres de formation en microfinance</a></div>
+              <div><a href="/fr/publications/situation-du-secteur-de-la-microfinance-fin-septembre-2024">Situation du secteur de la microfinance à fin septembre 2024</a></div>
+          </div>
+  
+    </div>
+  </div>
+
+  </div>
+</div></div></div>
+
+</div>
+<div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="CONOBAFI" data-id="0d3e084f-15dd-40fe-a6ac-0ac36686364f" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="CONOBAFI" href="/fr/content/conobafi" target="">
+      CONOBAFI    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="be3be867-3e36-46a9-847d-4af732f6d181" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/fr/documents/document-cadre-de-politique-et-de-strategie-regionale-dinclusion-financiere-dans-luemoa" target="_self">
+      Document-cadre de Politique et de Stratégie régionale d&#039;inclusion financière dans l&#039;UEMOA sur la période 2025-2030    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Etablissements bancaires d&#039;importance systémique" data-id="66fd9fdf-6aa5-4ac5-b79a-ebd01b52c58f" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Etablissements bancaires d&amp;#039;importance systémique" href="/fr/documents/etablissements-bancaires-dimportance-systemique-dans-lumoa" target="">
+      Etablissements bancaires d&#039;importance systémique    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Etablissements de crédit et compagnies financières" data-id="d63dec41-9e8b-496e-86a4-497da1b94ba8" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Etablissements de crédit et compagnies financières" href="/fr/content/etablissements-de-credit-et-compagnies-financieres-de-lumoa" target="">
+      Etablissements de crédit et compagnies financières    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="Intermédiaires en Opérations de Banques" data-id="795bbd85-c216-4d77-8641-0d600998563b" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="Intermédiaires en Opérations de Banques" href="/fr/documents/intermediaires-en-operations-de-banques" target="">
+      Intermédiaires en Opérations de Banques    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="2cd6e22b-2afe-4a8a-a93c-4bf96e980a42" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="/fr/content/liste-des-specialistes-en-valeur-du-tresor-pour-la-periode-2023-2025" target="_self">
+      Liste des Spécialistes en Valeur du Trésor pour la période 2023-2025    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="Publications" data-id="48f11963-d251-404f-a5dd-df793808bdd9" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a href='#' data-drupal-link-system-path="<front>" class="we-megamenu-nolink">
+      Publications</a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="1024" data-class="" style="width: 1024px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="etudesetrecherches" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+    <div class="type-of-block"><div class="block-inner"><div class="linkBlock blcRight">
+<div id="block-etudesetrecherches">
+  
+      <h2>Etudes et recherches</h2>
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+      <div>
+              <div><a href="/fr/publications/documents-detudes-et-de-recherche-de-la-bceao">Documents d’études et de recherche de la BCEAO</a></div>
+              <div><a href="/fr/publications/documents-de-travail">Documents de travail</a></div>
+              <div><a href="/fr/publications/revue-economique-et-monetaire">Revue économique et monétaire</a></div>
+              <div><a href="/fr/publications/etudes-realisees-dans-le-secteur-de-la-microfinance">Etudes réalisées dans le secteur de la microfinance</a></div>
+              <div><a href="/fr/publications/documents-detude-et-danalyse-economiques">Documents d’Etude et d’Analyse Economiques</a></div>
+          </div>
+  
+    </div>
+  </div>
+
+  </div>
+</div></div></div>
+
+</div>
+<div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="publicationsperiodiques_2" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+    <div class="type-of-block"><div class="block-inner"><div class="linkBlock blcRight">
+<div id="block-publicationsperiodiques-2">
+  
+      <h2>Publications Périodiques</h2>
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+      <div>
+              <div><a href="/fr/publications/annuaires">Annuaires</a></div>
+              <div><a href="/fr/publications/balance-des-paiements">Balance des paiements</a></div>
+              <div><a href="/fr/publications/bilans-et-comptes-de-resultats-des-etablissements-de-credit-de-lumoa">Bilans et comptes de résultats</a></div>
+              <div><a href="/fr/publications/bulletins">Bulletins</a></div>
+              <div><a href="/fr/publications/notes">Notes</a></div>
+              <div><a href="/fr/publications/perspectives-economiques">Perspectives économiques</a></div>
+              <div><a href="/fr/publications/rapports">Rapports</a></div>
+          </div>
+  
+    </div>
+  </div>
+
+  </div>
+</div></div></div>
+
+</div>
+<div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="autrespublications" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+    <div class="type-of-block"><div class="block-inner"><div class="linkBlock blcRight">
+<div id="block-autrespublications">
+  
+      <h2>Autres publications</h2>
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+      <div>
+              <div><a href="/fr/publications/chronologie-des-evenements-marquants-de-lhistoire-de-la-bceao-et-de-lumoa">Chronologie des évènements marquants de l’histoire de la BCEAO et de l’UMOA</a></div>
+              <div><a href="/fr/content/divers-publications">Autres publications</a></div>
+          </div>
+  
+    </div>
+  </div>
+
+  </div>
+</div></div></div>
+
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="bloc_toutes_publications" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+    <div class="type-of-block"><div class="block-inner"><div id="block-bloc-toutes-publications">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p><a href="/publications"><img alt="publications" data-entity-type="file" data-entity-uuid="7175cc6a-afc2-4b1b-aa68-b8ce0d6bf0a3" src="/sites/default/files/inline-images/publication.png" /></a></p>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+</div></div>
+
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span" data-element-type="we-mega-menu-col" data-block="" data-blocktitle="" data-hidewhencollapse="0" data-class="">
+  
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span" data-element-type="we-mega-menu-col" data-block="" data-blocktitle="" data-hidewhencollapse="0" data-class="">
+  
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span" data-element-type="we-mega-menu-col" data-block="" data-blocktitle="" data-hidewhencollapse="0" data-class="">
+  
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span" data-element-type="we-mega-menu-col" data-block="" data-blocktitle="" data-hidewhencollapse="0" data-class="">
+  
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span" data-element-type="we-mega-menu-col" data-block="" data-blocktitle="" data-hidewhencollapse="0" data-class="">
+  
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li right dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="4b64f4dc-212d-4c39-943b-69bf28751155" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="right" data-target="">
+      <a href='#' data-drupal-link-system-path="<front>" class="we-megamenu-nolink">
+      Statistiques</a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="700" data-class="" style="width: 700px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span8 blocTxt" data-element-type="we-mega-menu-col" data-width="8" data-block="coursdesdevisescontrefranccfa" data-blocktitle="0" data-hidewhencollapse="" data-class="blocTxt">
+    <div class="type-of-block"><div class="block-inner"><div class="linkBlock blcRight">
+<div id="block-coursdesdevisescontrefranccfa">
+  
+      <h2>Cours des devises contre Franc CFA</h2>
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+      <div>
+              <div><a href="/fr/cours/cours-des-devises-contre-Franc-CFA-appliquer-aux-transferts">Cours des devises contre Franc CFA à appliquer aux transferts</a></div>
+              <div><a href="/fr/cours/cours-des-devises-contre-Franc-CFA-appliquer-au-change-manuel">Cours des devises contre Franc CFA à appliquer au change manuel</a></div>
+              <div><a href="/fr/cours/cours-de-reference-des-principales-devises-contre-Franc-CFA">Cours de référence des principales devises contre Franc CFA</a></div>
+          </div>
+  
+    </div>
+  </div>
+
+  </div>
+</div></div></div>
+
+</div>
+<div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="blocmenustatistique" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+    <div class="type-of-block"><div class="block-inner"><div id="block-blocmenustatistique">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p><a href="/fr/documents/credit-et-microfinance" title="Crédit et Microfinance"><img alt="crédit et microfinance" data-entity-type="file" data-entity-uuid="26f54e03-615a-4ee7-892d-8ab7f9e3269d" src="/sites/default/files/inline-images/credit-2.jpg" /></a></p>
+
+<p><a href="/fr/documents/inclusion-financiere"><img alt="IF" data-entity-type="file" data-entity-uuid="cf944478-77c7-4a36-b51e-ce4e61e09930" src="/sites/default/files/inline-images/bloc-menu-bceao4.jpg" /></a></p>
+
+<p><a href="/fr/content/la-base-des-donnees-economiques-et-financieres" title="La Base des Données Economiques et Financières"><img alt="Base de donnée" data-entity-type="file" data-entity-uuid="102562b1-11b9-4c16-8371-780e52137c0f" src="/sites/default/files/inline-images/bd.jpg" /></a></p>
+
+<p> </p>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+</div></div>
+
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span" data-element-type="we-mega-menu-col" data-block="" data-blocktitle="" data-hidewhencollapse="0" data-class="">
+  
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span" data-element-type="we-mega-menu-col" data-block="" data-blocktitle="" data-hidewhencollapse="0" data-class="">
+  
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span" data-element-type="we-mega-menu-col" data-block="" data-blocktitle="" data-hidewhencollapse="0" data-class="">
+  
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span" data-element-type="we-mega-menu-col" data-block="" data-blocktitle="" data-hidewhencollapse="0" data-class="">
+  
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span" data-element-type="we-mega-menu-col" data-block="" data-blocktitle="" data-hidewhencollapse="0" data-class="">
+  
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span" data-element-type="we-mega-menu-col" data-block="" data-blocktitle="" data-hidewhencollapse="0" data-class="">
+  
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+	  </div>
+	</nav>
+</div>
+  </div>
+<div id="block-bouton" class="blcBtHeader">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p><a href="#?">BCEAO NEWS</a></p>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+</div></div>
+    <div class="zone zn_Banner">   <div>
+    <div class="views-element-container blcBannerIndex" id="block-views-block-banner-index-block-1">
+  
+    
+      <div><div class="js-view-dom-id-ef9a98609ca39eeb85bc4e78b19e98f0cb2a51f8d8f7ed4e3b05c50cabfd588c">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="bhi">
+  
+  <ul>
+
+          <li><div class="wrpBanner">
+  <div class="img img-0">     <img src="/sites/default/files/2025-09/Banner-PI-SPI-liste-des-participants-autorises_0.jpg" width="1600" height="500" alt="Connexion à la Plateforme Interopérable du Système de Paiement Instantané (PI-SPI)" typeof="foaf:Image" />
+
+    </div>
+  <div class="cntBanner">
+    <div class="wrpCntBanner">
+      <div class="txt txt-0">
+        <div class="txt1"><a href="/fr/communique-presse/connexion-la-plateforme-interoperable-du-systeme-de-paiement-instantane-pi-spi-de">Connexion à la Plateforme Interopérable du Système de Paiement Instantané (PI-SPI)</a> </div>
+        <div class="txt2"> de l’Union Economique et Monétaire Ouest Africaine </div>
+        <div class="txt3"> </div>
+        <div class="linkBanner"><a href="/fr/communique-presse/connexion-la-plateforme-interoperable-du-systeme-de-paiement-instantane-pi-spi-de">Lire le communiqué </a> </div>
+      </div>
+      
+    </div>
+  </div>
+  <div class="tags"> <div class="tagsIn"> <ul><li><a href="https://www.bceao.int/fr/communique-presse/liste-des-participants-autorises-ouvrir-les-services-de-pi-spi-au-public">Liste des participants autorisés à ouvrir les services de PI-SPI au public au 2…</a></li></ul> </div></div>
+</div></li>
+          <li><div class="wrpBanner">
+  <div class="img img-1">     <img src="/sites/default/files/2023-04/Banner.png" width="3200" height="1000" alt="BCEAO" typeof="foaf:Image" />
+
+    </div>
+  <div class="cntBanner">
+    <div class="wrpCntBanner">
+      <div class="txt txt-1">
+        <div class="txt1"><a href="/fr/communique-presse/liste-des-etablissements-de-credit-agrees-dans-lumoa-au-31-decembre-2025">Liste des établissements de crédit agréés dans l&#039;UMOA</a> </div>
+        <div class="txt2">au 31 décembre 2025 </div>
+        <div class="txt3"> </div>
+        <div class="linkBanner"><a href="/fr/communique-presse/liste-des-etablissements-de-credit-agrees-dans-lumoa-au-31-decembre-2025">Consulter</a> </div>
+      </div>
+      
+    </div>
+  </div>
+  <div class="tags"> <div class="tagsIn">  </div></div>
+</div></li>
+          <li><div class="wrpBanner">
+  <div class="img img-2">     <img src="/sites/default/files/2026-03/Banniere-CM-27-mars-2026.jpg" width="1600" height="500" alt="Première session ordinaire du Conseil des Ministres de l’Union au titre de l’année 2026" typeof="foaf:Image" />
+
+    </div>
+  <div class="cntBanner">
+    <div class="wrpCntBanner">
+      <div class="txt txt-2">
+        <div class="txt1"><a href="/fr/content/premiere-session-ordinaire-du-conseil-des-ministres-de-lunion-au-titre-de-lannee-2026">Première session ordinaire du Conseil des Ministres de l’Union au titre de l’année 2026</a> </div>
+        <div class="txt2">au Siège à Dakar, au Sénégal </div>
+        <div class="txt3"> </div>
+        <div class="linkBanner"><a href="/fr/content/premiere-session-ordinaire-du-conseil-des-ministres-de-lunion-au-titre-de-lannee-2026">Consulter l&#039;article</a> </div>
+      </div>
+      
+    </div>
+  </div>
+  <div class="tags"> <div class="tagsIn"> <ul><li><a href="/fr/communique-presse/session-ordinaire-du-conseil-des-ministres-de-lunion-du-27-mars-2026">Lire le communiqué de presse</a></li></ul> </div></div>
+</div></li>
+          <li><div class="wrpBanner">
+  <div class="img img-3">     <img src="/sites/default/files/2026-03/banniere%20web%20bulletin%20mensuel.jpg" width="1598" height="500" alt="Bulletin mensuel des statistiques - Janvier 2026" typeof="foaf:Image" />
+
+    </div>
+  <div class="cntBanner">
+    <div class="wrpCntBanner">
+      <div class="txt txt-3">
+        <div class="txt1"><a href="/fr/publications/bulletin-mensuel-des-statistiques-janvier-2026">Bulletin mensuel des statistiques</a> </div>
+        <div class="txt2">Janvier 2026 </div>
+        <div class="txt3"> </div>
+        <div class="linkBanner"><a href="/fr/publications/bulletin-mensuel-des-statistiques-janvier-2026">Consulter</a> </div>
+      </div>
+      
+    </div>
+  </div>
+  <div class="tags"> <div class="tagsIn">  </div></div>
+</div></li>
+          <li><div class="wrpBanner">
+  <div class="img img-4">     <img src="/sites/default/files/2019-03/banniere%20web%201600x500%20Rapport%20PM%201_0.jpg" width="1600" height="500" alt="Rapport Politique Monétaire" typeof="foaf:Image" />
+
+    </div>
+  <div class="cntBanner">
+    <div class="wrpCntBanner">
+      <div class="txt txt-4">
+        <div class="txt1"><a href="/fr/publications/rapport-sur-la-politique-monetaire-dans-lumoa-mars-2026">Rapport sur la Politique Monétaire dans les pays de l&#039;UMOA</a> </div>
+        <div class="txt2">Mars 2026 </div>
+        <div class="txt3"> </div>
+        <div class="linkBanner"><a href="/fr/publications/rapport-sur-la-politique-monetaire-dans-lumoa-mars-2026">Lire le rapport</a> </div>
+      </div>
+      
+    </div>
+  </div>
+  <div class="tags"> <div class="tagsIn"> <ul><li><a href="/fr/communique-presse/reunion-ordinaire-du-comite-de-politique-monetaire-de-la-bceao-tenue-le-4-mars">Lire le communiqué</a></li></ul> </div></div>
+</div></li>
+          <li><div class="wrpBanner">
+  <div class="img img-5">     <img src="/sites/default/files/2024-07/banniere_PAF2020.jpg" width="1600" height="500" alt="Bannière PAF" typeof="foaf:Image" />
+
+    </div>
+  <div class="cntBanner">
+    <div class="wrpCntBanner">
+      <div class="txt txt-5">
+        <div class="txt1"><a href="https://www.bceao.int/fr/content/prix-abdoulaye-fadiga-2026">Lancement de l&#039;édition 2026 du Prix Abdoulaye FADIGA</a> </div>
+        <div class="txt2">pour la promotion de la recherche économique  </div>
+        <div class="txt3"> </div>
+        <div class="linkBanner"><a href="https://www.bceao.int/fr/content/prix-abdoulaye-fadiga-2026">Consulter</a> </div>
+      </div>
+      
+    </div>
+  </div>
+  <div class="tags"> <div class="tagsIn">  </div></div>
+</div></li>
+    
+  </ul>
+
+</div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+  </div>
+</div>
+  </header>
+  <div class="cnt" id="main-content">
+    <div class="zone zn_Tabs"> <div class="warrap">  <div>
+    <div class="views-element-container blocInterv wow fadeInUp" id="block-views-block-interventions-du-gouverneur-block-3">
+  
+    
+      <div><div class="bloc-intervention js-view-dom-id-1aad67669a038d9beea7f6ce7301ebff6b08492711d1b851fb07ede93a8fc214">
+  
+  
+  
+
+      <header>
+      <div id="block-interventiontiemokoindex" class="contextual-region">
+  
+    <div class="contextual"><button class="trigger focusable visually-hidden" type="button" aria-pressed="false">Open  configuration options</button><ul class="contextual-links" hidden=""><li class="block-configure"><a href="/fr/admin/structure/block/manage/interventiontiemokoindex?destination=/fr/node">Configure block</a></li><li class="config-translationcontextual-linksentityblockconfig-translation-overview"><a href="/fr/admin/structure/block/manage/interventiontiemokoindex/translate?destination=/fr/node">Translate block</a></li><li class="block-contentblock-edit"><a href="/fr/block/93?destination=/fr/node">Modifier</a></li><li class="content-translationcontextual-linksblock-content"><a href="/fr/block/93/translations?destination=/fr/node">Translate</a></li></ul></div>
+        <div class="layout layout--onecol">
+    <div class="layout__region layout__region--content">
+      <div class="elemImgTtr">
+  <div class="img"><a href="https://www.bceao.int/fr/content/le-gouverneur">
+            <img src="/sites/default/files/2024-11/Jean_Claude_Kassi_BROU-accueil_2.jpg" alt="Gouverneur BROU" typeof="foaf:Image" />
+
+</a>
+    
+  </div>
+
+
+  <div class="ttr">
+          <p><strong>M. Jean-Claude Kassi BROU </strong><br />
+Gouverneur de la BCEAO</p>
+    
+  </div>
+</div>
+
+
+  <div class="desc">
+          <p><strong><a href="https://www.bceao.int/fr/content/le-gouverneur">Plus d'informations</a></strong></p>
+    
+  </div>
+
+
+    </div>
+  </div>
+
+  </div>
+
+<div class="interventionDroite" style="margin-bottom:-40px">
+<h2>Interventions du Gouverneur</h2></div>
+    </header>
+  
+  
+  
+
+  <div class="item-list interventionDroite">
+  
+  <ul class="intervention add-1-to-hide-carousel">
+
+          <li><div class="innerBox">
+<p class="dateIntervention"><time datetime="00Z">04 Mars 2026</time>
+</p>
+ <a href="/fr/documents/allocution-douverture-du-comite-de-politique-monetaire-de-la-bceao-du-4-mars-2026" hreflang="fr">Allocution d&#039;ouverture du Comité de Politique Monétaire de la BCEAO du 4 mars 2026, prononcée par son Président Monsieur Jean-Claude Kassi BROU</a>
+</div></li>
+          <li><div class="innerBox">
+<p class="dateIntervention"><time datetime="00Z">28 janvier 2026</time>
+</p>
+ <a href="/fr/documents/allocution-du-president-du-conseil-dorientation-de-umoa-titres-monsieur-jean-claude-kassi-brou" hreflang="fr">Allocution du Président du Conseil d’Orientation de UMOA-Titres, Monsieur Jean-Claude Kassi Brou, lors de la 8ᵉ édition des Rencontres du Marché des Titres Publics (REMTP)</a>
+</div></li>
+          <li><div class="innerBox">
+<p class="dateIntervention"><time datetime="00Z">03 décembre 2025</time>
+</p>
+ <a href="/fr/documents/allocution-douverture-du-comite-de-politique-monetaire-de-la-bceao-du-3-decembre-2025" hreflang="fr">Allocution d&#039;ouverture du Comité de Politique Monétaire de la BCEAO du 3 décembre 2025, prononcée par son Président Monsieur Jean-Claude Kassi BROU</a>
+</div></li>
+    
+  </ul>
+
+</div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+<span data-big-pipe-placeholder-id="callback=Drupal%5Cblock%5CBlockViewBuilder%3A%3AlazyBuilder&amp;args%5B0%5D=blocktabshometabs1&amp;args%5B1%5D=full&amp;args%5B2%5D&amp;token=wMbHh4GnzhEwttDDH8lkh28N1olKtyMytkZAdvRe3TU"></span>
+  </div>
+</div></div>
+    <div class="zone zn_Cartouch1"> <div class="warrap">  <div>
+    <div id="block-blocdevise" class="blcCart1 blcDevise wow fadeInLeft">
+  
+    
+            <h2>Cours des devises du jeudi 2 avril 2026</h2>
+      
+          <table>
+              <tbody>
+              <tr>
+                  <th>Devise</th>
+                  <th>Achat</th>
+                  <th>Vente</th>
+              </tr>
+                                <tr>
+                      <td>Euro</td>
+                      <td>655,957</td>
+                      <td>655,957</td>
+                  </tr>
+                                    <tr>
+                      <td>Dollar us</td>
+                      <td>565,500</td>
+                      <td>572,500</td>
+                  </tr>
+                                    <tr>
+                      <td>Yen japonais</td>
+                      <td>3,530</td>
+                      <td>3,590</td>
+                  </tr>
+                                    <tr>
+                      <td>Livre sterling</td>
+                      <td>748,500</td>
+                      <td>755,500</td>
+                  </tr>
+                                    <tr>
+                      <td>Franc suisse</td>
+                      <td>708,750</td>
+                      <td>714,750</td>
+                  </tr>
+                                    <tr>
+                      <td>Dollar canadien</td>
+                      <td>405,500</td>
+                      <td>412,500</td>
+                  </tr>
+                                    <tr>
+                      <td>Yuan chinois</td>
+                      <td>81,750</td>
+                      <td>83,500</td>
+                  </tr>
+                                    <tr>
+                      <td>Dirham Emirats Arabes Unis</td>
+                      <td>153,500</td>
+                      <td>156,250</td>
+                  </tr>
+                                </tbody>
+          </table>
+          
+  </div>
+<div id="block-blocktabshometabs2" class="tabs2 wow fadeInDown">
+  
+    
+      <div id="blocktabs-home" class="blocktabs">
+<ul>
+<li><a href="#blocktabs-home--10">Principaux indicateurs</a></li>
+<li><a href="#blocktabs-home--9">Taux directeurs</a></li>
+</ul>
+
+<div id="blocktabs-home--10">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p>*estimations 2024 (sauf pour le taux d’inflation)</p>
+
+<p><strong>* Date de mise à jour : 11 février 2026</strong></p>
+
+<ul>
+	<li>PIB :  135 730 Mds Fcfa</li>
+	<li>Taux de croissance : 6,2 %</li>
+	<li>Solde budgétaire/PIB (dons compris) : <span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">-5,4</span></span></span></span></span></span> %</li>
+	<li>Solde ext. cour./PIB (dons compris) : <span style="font-size:11pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:Arial"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">-5,7</span></span></span></span></span></span> %</li>
+	<li>Taux d'inflation : 3,5 % (moyenne de 2024)</li>
+</ul>
+
+<p class="pttTxt"> </p>
+
+<p><a href="/fr/content/principaux-indicateurs-et-taux-directeurs" style="    float: right;" title="Principaux éducateurs et taux directeurs ">Voir plus</a></p>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+<div id="blocktabs-home--9">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <ul>
+	<li>Taux minimum de soumission : 3,00 %</li>
+	<li>Taux du guichet de prêt marginal: 5,00 %</li>
+</ul>
+
+<p class="pttTxt"><strong>Effectifs depuis le 16 mars 2026</strong></p>
+
+<p> </p>
+
+<p> </p>
+
+<p><a href="/fr/content/principaux-indicateurs-et-taux-directeurs" style="    float: right;" title="Principaux éducateurs et taux directeurs ">Voir plus</a></p>
+
+<p> </p>
+
+<p> </p>
+<style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+@media(min-width: 641px){
+    .wrpCntBanner .txt {
+        max-width: 555px;
+    }
+    .wrpCntBanner .txt .txt1 a {
+        font-size: 30px;
+    }
+}
+
+/*--><!]]>*/
+</style>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+</div>
+
+
+  </div>
+<div id="block-voiraussi" class="blcCart1 blcVA wow fadeInRight">
+  
+      <h2>Voir aussi</h2>
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <ul>
+	<li><a href="/fr/documents/evolution-du-marche-interbancaire-de-luemoa" title="Evolution du marché interbancaire de l’UEMOA">Evolution du marché interbancaire</a></li>
+	<li><a href="/fr/content/historique-des-systemes-financiers-decentralises" title="Historique des Systèmes Financiers Décentralisés">Systèmes Financiers Décentralisés </a></li>
+	<li><a href="/documents/credit-et-microfinance" title="Crédit et Microfinance">Situation de la microfinance </a></li>
+	<li><a href="/documents/monographies-des-sfd" title="Monographies des SFD">Indicateurs des SFD de l’UMOA</a></li>
+	<li><a href="/content/sica-uemoa" title="SICA - UEMOA">Système de paiement SICA</a></li>
+	<li><a href="/content/star-uemoa" title="STAR - UEMOA">Système  de paiement STAR</a></li>
+	<li><a href="/documents/conditions-de-banque" title="Conditions de banque">Conditions de banque</a></li>
+</ul>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+</div></div>
+    <div class="zone zn_Cartouch2"> <div class="warrap">  <div>
+    <div id="block-blocktype3" class="blcType wow zoomIn zoom_blc">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p><img alt="bg" data-entity-type="file" src="https://www.bceao.int/sites/default/files/inline-images/pictos3.png" /></p>
+
+<p><a href="publications">Catalogue<br />
+des publications</a></p>
+
+    
+  </div>
+
+
+
+  <div class="img">
+            <img src="/sites/default/files/2017-10/bg3_0.jpg" width="385" height="350" alt="" typeof="foaf:Image" />
+
+
+    
+  </div>
+<div class="clear"></div>
+
+
+    </div>
+  </div>
+
+  </div>
+<div id="block-blocktype2" class="blcType wow zoomIn zoom_blc">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p><img alt="bg3" data-entity-type="file" data-entity-uuid="2653e657-3f31-4468-aa72-0fa839af8a4a" src="/sites/default/files/inline-images/pictos2.png" /></p>
+
+<p><a href="https://edenpub.bceao.int/">Base de données<br />
+économiques<br />
+et financières</a></p>
+    
+  </div>
+
+
+
+  <div class="img">
+            <img src="/sites/default/files/2017-10/bg2_0.jpg" width="400" height="350" alt="" typeof="foaf:Image" />
+
+
+    
+  </div>
+<div class="clear"></div>
+
+
+    </div>
+  </div>
+
+  </div>
+<div id="block-blocktype1" class="blcType wow zoomIn zoom_blc">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p><img alt="bg2" data-entity-type="file" data-entity-uuid="6aa86b97-e7ed-4566-a04c-f370f262fbe4" src="/sites/default/files/inline-images/pictos1.png" /></p>
+
+<p><a href="/content/avis-de-recrutement">Avis<br />
+de recrutement</a></p>
+    
+  </div>
+
+
+
+  <div class="img">
+            <img src="/sites/default/files/2017-10/bg1_0.jpg" width="385" height="350" alt="" typeof="foaf:Image" />
+
+
+    
+  </div>
+<div class="clear"></div>
+
+
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+</div></div>
+    <div class="zone zn_Cartouch3"> <div class="warrap">  <div>
+    <div id="block-prixabdoulayefadiga2" class="blcPrix blcPrix2 wow flipInX zoom_blc">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <div class="zntxt1">
+<p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="0fea6793-9306-4434-83c3-25a52b2b0074" href="/fr/content/lancement-de-ledition-2024-du-prix-abdoulaye-fadiga"><strong>PRIX</strong></a><br />
+ABDOULAYE<br />
+FADIGA Edition 20<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="0fea6793-9306-4434-83c3-25a52b2b0074" href="/fr/content/lancement-de-ledition-2024-du-prix-abdoulaye-fadiga">26</a></p>
+
+<p> </p>
+</div>
+
+<div class="znimg"><a href="/content/prix-abdoulaye-fadiga"><img alt="abdoulay" data-entity-type="file" data-entity-uuid="cb4ce498-d94c-4411-b619-ad6eb01cddc9" src="/sites/default/files/inline-images/abdoulay.jpg" /></a></div>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+<div id="block-educationfinanciere" class="cart4Txt wow flipInX zoom_blc">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p><img alt="docs" data-entity-type="file" data-entity-uuid="1189187d-5ff0-4eac-b7ed-3dda7290d1fe" src="/sites/default/files/inline-images/learn.png" /></p>
+
+<h2><a href="/publications/education-financiere">Education<br />
+Financière</a></h2>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+<div id="block-museedelamonnaie" class="blcMusee wow flipInX zoom_blc">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p class="ttr"><strong>Musée</strong><br />
+de la monnaie</p>
+
+<ul>
+	<li><a href="/fr/content/histoire-du-franc-cfa" title="Histoire du Franc CFA">Histoire du Franc</a></li>
+	<li><a href="/fr/content/billets-et-pieces" title="Billets et pièces">Billets et pièces</a></li>
+	<li><a href="/fr/content/visite-virtuelle-du-musee-de-la-monnaie" title="Visites virtuelles du Musée de la Monnaie">Visite virtuelle</a></li>
+</ul>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+</div></div>
+    <div class="zone zn_Cartouch4"> <div class="warrap">  <div>
+    <span data-big-pipe-placeholder-id="callback=Drupal%5Cblock%5CBlockViewBuilder%3A%3AlazyBuilder&amp;args%5B0%5D=views_block__appels_offres_block_11&amp;args%5B1%5D=full&amp;args%5B2%5D&amp;token=3mKUk_gExItVBfpwtVJy5jPi-h2jnOipn6o1UAM4OyI"></span>
+  </div>
+</div></div>
+    <div class="zone zn_Partenaire"> <div class="warrap">  <div>
+    <div class="views-element-container blcInstitutions wow fadeInUp" id="block-views-block-institutions-block-1">
+  
+      <h2>Autres Institutions</h2>
+    
+      <div><div class="js-view-dom-id-ea316fb02c391b899c299bb428e73cfb7222324af72474d6485ced3bfe2361ab">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="item-list">
+  
+  <ul>
+
+          <li><div class="views-field views-field-field-image"><div class="field-content"><a href="http://www.cesag.sn/" target="_blank">  <img src="/sites/default/files/2018-02/cesag.jpg" width="225" height="224" alt="cesag" typeof="Image" />
+
+</a></div></div></li>
+          <li><div class="views-field views-field-field-image"><div class="field-content"><a href="/fr/content/presentation-de-la-commission-bancaire" target="_blank">  <img src="/sites/default/files/2017-12/comission-bancaire.jpg" width="108" height="70" alt="" typeof="Image" />
+
+</a></div></div></li>
+          <li><div class="views-field views-field-field-image"><div class="field-content"><a href="http://www.fgd-umoa.org/" target="_blank">  <img src="/sites/default/files/2025-05/logo-6-FGDR-UMOA.jpeg" width="141" height="80" alt="fgdr-umoa" typeof="Image" />
+
+</a></div></div></li>
+          <li><div class="views-field views-field-field-image"><div class="field-content"><a href="https://www.conobafi.org" target="_blank">  <img src="/sites/default/files/2017-10/logo5.gif" width="150" height="80" alt="CONOBAFI" typeof="Image" />
+
+</a></div></div></li>
+          <li><div class="views-field views-field-field-image"><div class="field-content"><a href="http://umoatitres.org/" target="_blank">  <img src="/sites/default/files/2025-05/logo-4-UMOA-titres.jpeg" width="80" height="80" alt="umoa titres" typeof="Image" />
+
+</a></div></div></li>
+    
+  </ul>
+
+</div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+  </div>
+</div></div>
+  </div>
+  <footer>
+    <div class="zone zn_footer_Top"> <div class="warrap">  <div>
+    <div id="block-newsletter" class="blcNewsletter wow slideInDown">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+            <div><span id="webform-submission-newsletter-block-content-15-form-ajax-content"></span><div id="webform-submission-newsletter-block-content-15-form-ajax" class="webform-ajax-form-wrapper" data-effect="fade" data-progress-type="throbber"><form class="webform-submission-form webform-submission-add-form webform-submission-newsletter-form webform-submission-newsletter-add-form webform-submission-newsletter-block_content-15-form webform-submission-newsletter-block_content-15-add-form webform-submission-newsletter-block-content-15-add-form js-webform-details-toggle webform-details-toggle" data-drupal-selector="webform-submission-newsletter-block-content-15-add-form" novalidate="" action="/fr" method="post" id="webform-submission-newsletter-block-content-15-add-form" accept-charset="UTF-8">
+  
+  <div class="js-form-item form-item js-form-type-email form-item-inscrivez-vous-a-notre-newsletter js-form-item-inscrivez-vous-a-notre-newsletter">
+      <label for="edit-inscrivez-vous-a-notre-newsletter" class="js-form-required form-required">Inscription à la newsletter</label>
+        <input data-webform-required-error="Merci d’insérer une adresse Email valide " data-drupal-selector="edit-inscrivez-vous-a-notre-newsletter" type="email" id="edit-inscrivez-vous-a-notre-newsletter" name="inscrivez_vous_a_notre_newsletter" value="" size="60" maxlength="254" placeholder="E-mail" class="form-email required" required="required" aria-required="true" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions webform-actions js-form-wrapper form-wrapper" id="edit-actions--2"><input class="webform-button--submit button button--primary js-form-submit form-submit" data-drupal-selector="edit-actions-submit" data-disable-refocus="true" type="submit" id="edit-actions-submit" name="op" value="valider" />
+
+</div>
+<input autocomplete="off" data-drupal-selector="form-anefhvw-ohievwd76zb7o9hsrmyxon0pyqk8zmiy3cw" type="hidden" name="form_build_id" value="form-AnEfhvw_OHIEvwD76zB7O9HsrmyXOn0pYqk8zMIy3cw" />
+<input data-drupal-selector="edit-webform-submission-newsletter-block-content-15-add-form" type="hidden" name="form_id" value="webform_submission_newsletter_block_content_15_add_form" />
+
+
+  
+</form>
+</div></div>
+      
+    </div>
+  </div>
+
+  </div>
+<div id="block-vousavezbesoindeplusdinformations" class="blcPlusInfo wow fadeInUp">
+  
+      <h2>Plus d&#039;informations ?</h2>
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p><a href="/contact">Contact</a></p>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+<div id="block-reseauxsociaux-2" class="blcsRsFooter wow fadeInUp">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <ul>
+	<li><a class="ytb" href="https://www.youtube.com/user/bceaoChannel" target="_blank">Youtube</a></li>
+</ul>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+</div></div>
+    <div class="zone zn_footer_TopCenter"> <div class="warrap">  <div>
+    <nav role="navigation" aria-labelledby="block-medianet-footer-menu" id="block-medianet-footer">
+            
+  <h2 class="visually-hidden" id="block-medianet-footer-menu">Footer menu</h2>
+  
+
+        
+              <ul>
+              <li>
+        <a href="/fr/appels-offres/appels-offres-marches-publics-achats" data-drupal-link-system-path="appels-offres/appels-offres-marches-publics-achats">Marchés publics et Achats </a>
+              </li>
+          <li>
+        <a href="/fr/communique-presse" data-drupal-link-system-path="communique-presse">Espace presse</a>
+              </li>
+          <li>
+        <a href="/fr/faq" data-drupal-link-system-path="faq">FAQ </a>
+              </li>
+          <li>
+        <a href="/fr/album-photo" data-drupal-link-system-path="album-photo">Albums photos</a>
+              </li>
+          <li>
+        <a href="/fr/galerie-video" data-drupal-link-system-path="galerie-video">Vidéos</a>
+              </li>
+          <li>
+        <a href="/fr/content/mentions-legales" data-drupal-link-system-path="node/1193">Mentions légales </a>
+              </li>
+          <li>
+        <a href="/fr/sitemap" data-drupal-link-system-path="sitemap">Plan du site</a>
+              </li>
+          <li>
+        <a href="/fr/contact" title="Contact" data-drupal-link-system-path="webform/contactez_nous">Contact</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-application" class="blcAPP">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p>Télécharger l'application mobile</p>
+
+<p><a href="https://play.google.com/store/apps/details?id=www.bceao" target="_blank"><img alt="android" data-entity-type="file" data-entity-uuid="7fcba2a6-ee6f-4653-89e6-05c7ee83ec53" src="/sites/default/files/inline-images/android.png" /></a><a href="https://itunes.apple.com/fr/app/bceao/id1130940569?l=en&amp;mt=8" target="_blank"><img alt="ios" data-entity-type="file" data-entity-uuid="9a86c053-d269-438c-a0f8-914521796032" src="/sites/default/files/inline-images/ios.png" /></a></p>
+
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+</div></div>
+    <div class="zone zn_footer_Bottom"> <div class="warrap">  <div>
+    <div id="block-footercopyright" class="cpRight">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <p>© 2018 Banque Centrale des Etats de l’Afrique de l’Ouest (BCEAO)</p>
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+<div id="block-customjs">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="bodyCntBlc">
+          <script src="https://code.jquery.com/jquery-1.12.4.js"></script><script type="text/javascript" charset="utf-8">
+<!--//--><![CDATA[// ><!--
+
+jQuery(function ($) {
+    $(document).ready(function(){
+        /* carte interactive */
+        if($('#umoa-bceao-map').length>0){
+              var couleur_membre = "#d06f18";
+              var couleur_survol = "#4c2a11";
+              $(document).on({
+                 mouseenter: function () {
+                  //change color on mouse enter
+                    $('#umoa-bceao-map .membre').css('fill',couleur_membre);
+                     $(this).css('fill',couleur_survol);
+                     id_membre = $(this).attr("id"); console.log('idmembre='+id_membre );
+                     $('g.info').css('opacity',0);
+                     $('#g-'+id_membre ).css('opacity',1);
+                },
+                 mouseleave: function () {
+              //change color on mouse leave
+                  $(this).css('fill',couleur_membre );
+                  $('g.info').css('opacity',0);
+                 }
+            }, "#umoa-bceao-map .membre");
+            $('g.info').on('mouseenter',function(){
+                var id_pays = $(this).data('pays'); console.log('pays='+id_pays );
+            });
+        }
+ 
+
+             // accordeon page autres publication
+             if($(".page-node-1247").length>0){
+                      if(window.location.hash) {
+                              var hash = window.location.hash.substring(1); //Puts hash in variable, and removes the # character
+                              console.log(hash);
+                              if(hash=="histoire-de-l-umoa"){
+                                      $("#histoire-de-l-umoa.linkOuvreFerme").addClass("active");
+                                      $("#histoire-de-l-umoa.linkOuvreFerme").next('.cntOuvreFerme').show();
+                              }
+                      } 
+             }      
+        // compte-à-rebours
+        function two(n){return n<10?"0"+n:""+n;}
+        function plural(n, s){return n>1?s+"s":s;}
+        
+        if($(".page-node-4155").length>0){ console.log("page test !!!");
+               var $root = $("#countdown");
+               var title = $root.data("title") || "Compte-à-rebours";
+               var finishMsg = $root.data("finish-message") || "Échéance atteinte";
+               var deadlineRaw = $root.data("deadline");
+               var deadline = new Date(deadlineRaw);
+               if (String(deadline) === "Invalid Date") {
+                     deadline = new Date(Date.now() + 24*60*60*1000);
+               }
+
+    $(".title", $root).text(title);
+    $(".deadline-text", $root).text("Échéance : " + deadline.toLocaleString("fr-FR"));
+
+var $days = $root.find("[data-part=days]"),
+    $hours = $root.find("[data-part=hours]"),
+    $mins = $root.find("[data-part=minutes]"),
+    $secs = $root.find("[data-part=seconds]"),
+    $grid = $root.find(".timer"),
+    $done = $root.find(".done");
+var paused = false;
+var timerId;
+
+function tick() {
+    if (paused) return;
+    var now = new Date();
+    var diff = deadline - now;
+    if (diff <= 0) {
+        clearInterval(timerId);
+        $grid.hide();
+        $done.html(finishMsg).show();
+        return;
+    }
+    var d = Math.floor(diff / (1000 * 60 * 60 * 24));
+    diff -= d * 24 * 60 * 60 * 1000;
+    var h = Math.floor(diff / (1000 * 60 * 60));
+    diff -= h * 60 * 60 * 1000;
+    var m = Math.floor(diff / (1000 * 60));
+    diff -= m * 60 * 1000;
+    var s = Math.floor(diff / 1000);
+
+
+    $days.text(two(d));
+    $hours.text(two(h));
+    $mins.text(two(m));
+    $secs.text(two(s));
+    $root.attr("aria-label", d + " " + plural(d, 'jour') + ", " + h + " " + plural(h, 'heure') + ", " + m + " " + plural(m, 'minute') + " et " + s + " " + plural(s, 'seconde') + " restantes");
+}
+
+
+        timerId = setInterval(tick, 1000);
+        tick();
+
+        }
+
+    });
+});
+
+//--><!]]>
+</script>
+    
+  </div>
+
+
+
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+</div></div>
+  </footer>
+</div>
+<div class="zone zn_bceao_news">   <div>
+    <div class="views-element-container" id="block-views-block-bceao-news-block-2">
+  
+    
+      <div><a href="javascript:;" class="close"></a>
+<div id="blc_bceao_news">
+<h1>BCEAO NEWS</h1>
+  
+  
+  
+    <div class="bcNCom">
+    <h2> Communiqués</h2>
+      <div class="bceaNewsComm views-row"><div class="views-field views-field-field-date"><div class="field-content"><time datetime="2026-04-02T12:00:00Z">02 avril 2026</time>
+</div></div><span class="views-field views-field-title"><span class="field-content"><a href="/fr/communique-presse/liste-des-participants-autorises-ouvrir-les-services-de-pi-spi-au-public" hreflang="fr">Liste des participants autorisés à ouvrir les services de PI-SPI au public</a></span></span></div>
+    <div class="bceaNewsComm views-row"><div class="views-field views-field-field-date"><div class="field-content"><time datetime="2026-04-02T12:00:00Z">02 avril 2026</time>
+</div></div><span class="views-field views-field-title"><span class="field-content"><a href="/fr/communique-presse/connexion-la-plateforme-interoperable-du-systeme-de-paiement-instantane-pi-spi-de" hreflang="fr">Connexion à la Plateforme Interopérable du Système de Paiement Instantané (PI-SPI) de l’Union Economique et Monétaire Ouest Africaine</a></span></span></div>
+
+      
+  
+
+  
+  
+        <a href="/fr/communique-presse" class="readMore">Voir tous les communiques de presse</a>
+</div>
+        <footer>
+        
+  
+  
+        <div class="bcNActus">
+        <h2> Evénements</h2>
+            <div class="bceaNewsComm views-row"><div class="views-field views-field-field-date"><div class="field-content"><time datetime="2026-03-27T12:00:00Z">27 Mars 2026</time>
+</div></div><span class="views-field views-field-title"><span class="field-content"><a href="/fr/evenement/conseil-des-ministres-de-lunion-2" hreflang="fr">Conseil des Ministres de l&#039;Union</a></span></span></div>
+    <div class="bceaNewsComm views-row"><div class="views-field views-field-field-date"><div class="field-content"><time datetime="2026-03-04T12:00:00Z">04 Mars 2026</time>
+</div></div><span class="views-field views-field-title"><span class="field-content"><a href="/fr/evenement/reunion-du-comite-de-politique-monetaire-de-la-bceao-0" hreflang="fr">Réunion du Comité de Politique Monétaire de la BCEAO</a></span></span></div>
+
+    
+  
+
+  
+  
+        <a href="/fr/evenements" class="readMore">Voir tous les evenements</a>
+</div>
+    
+  
+</div>
+
+    </footer>
+  
+  
+</div>
+</div>
+
+  </div>
+
+  </div>
+</div>
+
+
+
+
+
+  </div>
+
+    <style>
+.page-cours.cssPageAll > h2{ opacity: 0; }
+.page-cours .h2_opaque > h2{ opacity: 1}
+.text-align-justify, #block-views-block-publications-block-7 .text-align-justify{ text-align: justify !important; }
+.text-align-center{ text-align: center !important; }
+.wrpCntBanner .txt1{ line-height: 1;}
+.page-node-evenements p.titlePageInfo, .page-node-evenements  .cntActusWrp .date {
+    display: none !important;
+}
+.topMenSearch .blcMenuTop a{ padding-left: 7px !important; padding-right: 7px !important; }
+.cssPageAll h2{ padding-bottom: 10px; }
+@media (min-width: 768px) {
+        .wrpCntBanner .txt2 { font-size: 19px }
+}
+div.preview {
+    box-shadow: 3px 3px 11px -3px #7b5a4f;
+}
+.cssPageAll .infoFile {
+    font-size: 16px;
+    background-color: #f6b738;
+    display: inline-block;
+    padding: 3px 5px;
+    clear: both;
+    font-weight: bold;
+}
+/* menu interieur */
+.menu-interieur a {
+    padding: 3px 5px;
+    border-radius: 5px;
+}
+.menu-interieur .active, .menu-interieur a:hover {
+    background-color: #edaa34;
+    color: #fff;
+}
+@media(max-width:380px){
+    .cssPageAll p.menu-interieur {
+        font-size: 13px;
+    }
+}
+/* organigramme */
+.page-node-460 .cssPageAll ul li li {
+    padding-bottom: 0;
+    margin-top: 7px;
+}
+/* rapport annuel */
+.chiffres-cles-rapport h2 {
+    background: none;
+    text-align: center;
+    padding: 0;
+    color: #fafafa;
+    font-size: 3rem!important;
+}
+.chiffres-cles-rapport .block-chiffre {
+    padding: 3rem 1.5rem;
+    border: 1px solid rgba(0,0,0,.125);
+    margin-bottom: 2rem;
+    min-height: 17rem;
+    transition: all 0.2s 0s ease;
+}
+.chiffres-cles-rapport .block-chiffre.c-vert{
+    background-color: rgba(0,140,149,0.8);
+    color: #fff;
+}
+.chiffres-cles-rapport .block-chiffre.c-vert:hover {
+    background-color: rgba(0,140,149,1);
+}
+.chiffres-cles-rapport .block-chiffre.c-orange {
+    background-color: rgba(190,83,28,0.8);
+}
+.chiffres-cles-rapport .block-chiffre.c-orange:hover {
+    background-color: rgba(190,83,28,1);
+}
+.chiffres-cles-rapport p {
+    color: #fafafa;
+    font-weight: bold;
+    font-size: 0.9rem !important;
+}
+.chiffres-cles-rapport .docDesc .docLink a{ 
+    transition: all 0.2s 0s ease;
+    width: auto; 
+}
+/* page imbriquee */
+.page-rapport-annuel header, .page-rapport-annuel .zn_Breadcrumb, .page-rapport-annuel #block-pagetitle, .page-rapport-annuel footer {
+    display: none !important;
+}
+.page-rapport-annuel .warrap {
+    width: 100%;
+}
+.page-rapport-annuel .fullPage {
+    margin: 0 auto !important;
+    padding: 0;
+    height: 100vh;
+}
+
+/* conference IA */
+.page-node-8176 .ouvre-ferme { margin-bottom: 0; padding-bottom: 0; }
+.page-node-8176 .cssPageAll ul li::marker {
+    color: #f6b738;
+    content: "";
+    display: none !important;
+}
+.page-node-8176 p img.align-left {
+    float: left;
+}
+.page-node-8176 .blcGris:before { display: none !important; }
+.page-node-8176 .ouvre-ferme .cntOuvreFerme{
+    padding-left: 0;
+    padding-right: 0;
+}
+.page-node-792 .zn_Content h1 {
+        font-size: 30px;
+}
+.page-node-792 .btn-voir-offres a,
+.page-node-8407 .btn-voir-offres a {
+    display: block;
+    text-align: center;
+    width: auto;
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: #562600;
+    padding: 9px 17px;
+    margin-top: 22px;
+    text-transform: uppercase;
+    background: #f6b738;
+    transition: all 0.5s ease;
+}
+.page-node-792 .btn-voir-offres.modele-2,
+.page-node-8407 .btn-voir-offres.modele-2 { display: inline-block; }
+.page-node-792 .btn-voir-offres.modele-2 a,
+.page-node-8407 .btn-voir-offres.modele-2 a {
+    border: 1px solid #f6b738;
+    text-transform: none;
+    background-color: transparent;
+    transition: all 0.5s ease;
+    line-height: 30px;
+}
+.page-node-792 .btn-voir-offres.modele-2 em.glyphicon,
+.page-node-8407 .btn-voir-offres.modele-2 em.glyphicon {
+    color: #f6b738;
+    font-size: 27px;
+    position: relative;
+    left: 3px;
+    display: inline-block;
+    top: 9px;
+    line-height: 0;
+    margin-right: 10px;
+}
+.page-node-792 .btn-voir-offres.modele-3 a:hover,
+.page-node-8407 .btn-voir-offres.modele-3 a:hover{
+    background: #562600;
+    color: #f6b738;
+}
+.page-node-792 .btn-voir-offres a:hover,
+.page-node-8407 .btn-voir-offres a:hover  {
+    background: #562600;
+    color: #f6b738;
+}
+.page-node-evenements .tr-fond-vert{ background-color: #008b98 !important; }
+.page-node-evenements .tr-fond-vert td, .page-node-evenements .tr-fond-vert td * {
+    color: #fff !important;
+}
+.page-node-evenements .cssPageAll table td.text-align-center {
+    text-align: center !important;
+}
+.page-node-evenements .cssPageAll table th {
+    border-left: 1px solid #fefefe;
+    text-align: center;
+    font-size: 15px;
+}
+.page-node-evenements .cssPageAll table td {
+    padding: 15px 10px;
+    font-size: 14px;
+    border-left: 1px solid #fefefe;
+}
+.page-node-evenements .blcGris {
+    padding: 25px 25px 15px;
+    margin-top: 0;
+}
+.docDesc.note-conceptuelle {
+    min-width: 815px;
+}
+article figcaption {
+    color: #512b1e;
+    font-size: 13px;
+    margin-top: 3px;
+    font-weight: bold;
+}
+.linkBanner a:hover {
+    color: #f4c755 !important;
+}
+.cntActusWrp .desc li, .cssPageAll ul li{
+    margin-bottom: 5px;
+    list-style: disc;
+    padding-left: 0px;
+    margin-left: 15px;
+}
+.cntActusWrp .desc li{ font-size: 14px; }
+.cssPageAll ul li{ font-size: 16px; text-align: justify; }
+.cssPageAll img.align-center {
+    margin: 0 auto;
+}
+.cssPageAll ul li::marker {
+    color: #f6b738;
+}
+.page-node-460 .cssPageAll ul li::before{ display: none; }
+
+/* GOUVERNEUR */
+.page-node-374 .gouv {
+    width: 60%;
+    padding-right: 15px;
+    float: left;
+    padding-bottom: 0;
+    margin-bottom: 7px;
+}
+
+/* avis recrutement - mise en evidence menu top */
+.topMenSearch .blcMenuTop li:nth-child(2) {
+    margin-left: 10px;
+}
+/*.topMenSearch .blcMenuTop ul li:nth-child(2) {
+    background-color: #4f290c;
+}*/
+.topMenSearch .blcMenuTop ul li:nth-child(1) {
+    background-color: #f6b738;
+}
+/*.topMenSearch .blcMenuTop ul li:nth-child(2) a {
+    color: #512b1e;
+    transition: all 0.5s ease;
+    text-decoration: none;
+}*/
+.topMenSearch .blcMenuTop ul li:nth-child(1) a {
+    color: #562600;
+    transition: all 0.5s ease;
+    text-decoration: none;
+    font-weight: bold;
+}
+/*.topMenSearch .blcMenuTop ul li:nth-child(2) a:hover {
+    background: #4f290c;
+    color: #f6b738;
+} */
+.topMenSearch .blcMenuTop ul li:nth-child(1) a:hover {
+    background: #4f290c;
+    color: #ffffff;
+} 
+/* animation glow */ 
+.topMenSearch .blcMenuTop ul li:nth-child(1) {	
+	animation: glowing 3s infinite;
+	-webkit-animation: glowing 3s infinite;
+	-moz-animation: glowing 3s infinite;
+	-o-animation: glowing 3s infinite;
+}
+@keyframes glowing {
+  0% { box-shadow: 0 0 -10px #b37800; }
+  40% { box-shadow: 0 0 25px #b37800; }
+  60% { box-shadow: 0 0 25px #b37800; }
+  100% { box-shadow: 0 0 -10px #b37800; }
+}
+
+.cssPageAll .nav-tabs {
+    padding-left: 0;
+}
+.cssPageAll .nav-tabs > li:first-child {
+    margin-left: 0;
+}
+.cssPageAll .tab-pane ul.list li {
+    list-style: none;
+}
+.cssPageAll .nav-tabs > li > a {
+     padding-bottom: 11px;
+}
+.cssPageAll .bootstrap-tabs .nav-tabs > li.active > a {
+    padding-bottom: 13px;
+    background-color: #f6b738;
+}
+/* carte interactive */
+svg#umoa-bceao-map g.info tspan {
+    fill: #4a2304 !important;
+    font-family: Arial;
+    font-size: 11px;
+}
+polygon.membre {
+    -webkit-transition: all 200ms linear 50ms;
+    -o-transition: all 200ms linear 50ms;
+    transition: all 200ms linear 50ms;
+}
+
+.cssPageAll .blcGris ul li:before {
+    left: -18px;
+    top: 5px;
+}
+/* btn telechargement */
+.cntOuvreFerme .docDesc {
+    margin-bottom: 15px;
+}
+/* liste */
+.cntActusWrp .desc ul {
+    margin-bottom: 15px;
+}
+article .cssPageAll figure+figure {
+    margin-top: 15px;
+}
+/* inclusion financiere*/
+#onglet-indicateurs-de-suivi{display: none;}
+#indicateurs-de-suivi{ display: block;}
+.page-node-3939 #onglet-indicateurs-de-suivi{display: block;}
+/*.page-node-3939 #indicateurs-de-suivi{ display: none; }*/
+#block-inclusion-financiere-salon .docLink {
+    width: 100%;
+    max-width: 610px;
+}
+.itemDoc.itemDocIS:last-of-type a {
+    border-bottom: 0px;
+}
+.page-node-3939 .linkBlock {
+    background: transparent;
+    padding: 20px;
+    margin-bottom: 15px;
+    width: 100%;
+    border: 1px solid #e3dbd8;
+    max-width: 549px;
+}
+.page-node-3939 .linkBlock a:last-child{ border-bottom: 0; margin-bottom: 0; }
+/* candidature */
+.page-node-7739 .cssPageAll ul {
+    margin-bottom: 25px;
+}
+.page-node-7739 .cssPageAll ul li{
+        padding-left: 10px;
+        margin-left: 30px;
+        margin-bottom: 13px;
+}
+.zn_Content .webform-submission-form select {
+    height: 40px;
+    border: 1px solid #d5c5c0;
+    font-size: 16px;
+}
+.webform-flexbox label {
+    min-height: 67px;
+}
+.page-webform label.form-required:after { content: "*"; }
+.page-webform .zn_Content .webform-submission-form .form-item input.form-checkbox {
+    max-width: 25px;
+    top: -3px;
+    position: relative;
+}
+/* cacher lien télécharger */
+div#webform-submission-candidature-au-poste-de-caissier-node-8024-form-ajax .infoFile {
+    overflow: hidden;
+    text-indent: -6px;
+}
+div#webform-submission-candidature-au-poste-de-caissier-node-8024-form-ajax .infoFile a {
+    display: none;
+}
+/* cacher transférer */
+.js-webform-document-file>input[type="file"]+input.form-submit {
+    display: none !important;
+}
+/* cacher erreur megamenu après chargement d'un fichier */
+.page-node-7738 #edit-processed-text-01+div .errMsgNews,
+.page-node-7738 #edit-processed-text-01+div#ajax-wrapper+div .errMsgNews,
+.page-node-8024 #edit-processed-text-01+div .errMsgNews,
+.page-node-8024 #edit-processed-text-01+div#ajax-wrapper+div .errMsgNews,
+.page-node-8024 .errMsgNews .backtrace,
+.js-form-item.form-item+div .errMsgNews,
+div#ajax-wrapper+div  .errMsgNews {
+    display: none !important;
+}
+.form-item-captcha-response {
+    font-size: 16px;
+}
+.form-required:after {
+    color: #eb1010 !important;
+}
+.zn_Content .webform-submission-form .form-item input.form-checkbox {
+    max-width: 50px;
+}
+.zn_Content .webform-submission-form .form-item input.form-checkbox,
+.zn_Content .webform-submission-form .form-item input.form-checkbox+label {
+    display: inline-block;
+}
+.zn_Content .webform-submission-form .form-item label span.file,
+.zn_Content .webform-submission-form .form-item span.file {
+    font-size: 16px;
+    font-weight: bold;
+}
+.page-node-7738 .ajax-progress.ajax-progress-throbber,
+.page-node-8024 .ajax-progress.ajax-progress-throbber {
+    position: relative;
+    width: 100%;
+    max-width: 580px;
+    background-color: transparent;
+    color: #f6b738;
+    font-size: 18px;
+    height: 45px;
+}
+.page-node-7738 .ajax-progress.ajax-progress-throbber:after,
+.page-node-8024 .ajax-progress.ajax-progress-throbber:after {
+    display: block;
+    content: "Chargement en cours...";
+    position: relative;
+    top: -16px;
+    left: 9px;
+}
+.page-node-8024 #edit-actions {
+    text-align: left;
+}
+.webform-confirmation__message {
+    font-size: 16px;
+    display: inline-block;
+    padding: 15px;
+    border: 1px solid #09bd09;
+}
+/* formulaire PAF - Prix Abdoulaye FADIGA */
+.page-node-7738 #edit-candidature-type .form-item {
+    min-width: 130px;
+}
+.zn_Content .webform-submission-form .form-item .description {
+    font-size: 14px;
+}
+.zn_Content .webform-submission-form .form-item .description a {
+    text-decoration: underline;
+    color: #f3aa16;
+    margin-left: 25px;
+}
+.page-node-7738 .zn_Content .webform-submission-form .form-item label.form-required:after{ 
+    content: "*"; 
+}
+.page-node-7738 .zn_Content .webform-submission-form .legende-type-candidature .form-item label:after,
+.page-node-7738 .zn_Content .webform-submission-form .legende-civilite .form-item label:after{
+    content: "";
+}
+.page-node-7738 .legende-type-candidature .required legend:after,
+.page-node-7738 .legende-civilite.required legend:after {
+    content: "*";
+    color: #eb1010 !important;
+}
+.page-node-7738 .zn_Content .webform-submission-form fieldset.form-item {
+    border: 1px solid #b7a39c;
+    padding: 10px 15px;
+}
+.page-node-7738 .zn_Content .webform-submission-form fieldset legend {
+    background-color: #f0dbae;
+    padding: 5px 10px;
+}
+.page-node-7738 .zn_Content .webform-submission-form fieldset fieldset legend {
+    background-color: #fef4de;
+}
+.page-node-7738 .zn_Content .webform-submission-form fieldset fieldset fieldset legend {
+    background-color: #fffaf0;
+}
+.page-node-7738 .zn_Content .webform-submission-form .form-item input[value="Transférer"] {
+    display: none;
+}
+.page-node-7738 .zn_Content .webform-submission-form .form-item.form-item-acceptation-conditions input[type="checkbox"],
+.page-node-7738 .zn_Content .webform-submission-form .form-item.form-item-attestation-exactitude input[type="checkbox"] {
+    width: 10%;
+    max-width: 20px;
+    height: 20px;
+    margin-top: 3px;
+    vertical-align: top;
+    margin-right: 3px;
+}
+.page-node-7738 .zn_Content .webform-submission-form .form-item.form-item-acceptation-conditions label,
+.page-node-7738 .zn_Content .webform-submission-form .form-item.form-item-attestation-exactitude label{
+    width: 90%;
+}
+/* compte-a-rebours */
+.countdown .card{
+    border:1px solid rgba(255,255,255,.06);
+    border-radius:var(--radius);
+    box-shadow:0 10px 30px rgba(0,0,0,.35), inset 0 1px 0 rgba(255,255,255,.04);
+    overflow:hidden;
+}
+.countdown header{padding:28px 28px 0}
+.countdown header h1{margin:0 0 8px;font-size:clamp(1.2rem,2.4vw,1.6rem);font-weight:700}
+.countdown header p{margin:0;color:var(--muted)}
+
+.countdown .timer{
+display:grid;grid-template-columns:repeat(4,1fr);gap:16px;padding:28px;align-items:stretch; padding-top: 0;
+}
+.countdown .unit{
+    background:linear-gradient(180deg,rgba(187,137,119,.35),rgba(182,152,142,.2));
+    border:1px solid rgba(255,255,255,.08);
+    border-radius:calc(var(--radius) - .5rem);
+    text-align:center;position:relative;isolation:isolate;overflow:hidden
+}
+.countdown .unit::after{
+    content:"";position:absolute;inset:0;z-index:-1;opacity:.5;
+    background:conic-gradient(from 120deg, var(--accent), var(--accent-2), var(--accent));
+    filter:blur(36px);
+    transform:scale(1.2);
+}
+.countdown .value{
+    font-variant-numeric:tabular-nums;letter-spacing:.03em;font-weight:800;
+    font-size:clamp(2.2rem,8vw,3.4rem);line-height:1;margin:28px 0 6px
+}
+.countdown .label{font-size:.9rem;color:var(--muted);letter-spacing:.08em;text-transform:uppercase;margin-bottom:20px}
+.countdown .deadline{display:flex;gap:8px;align-items:center;color:var(--muted);padding:0 28px 24px}
+.countdown .dot{width:8px;height:8px;border-radius:999px;background:var(--accent)}
+.countdown .actions{display:flex;gap:8px;flex-wrap:wrap;padding:0 28px 28px}
+.countdown button{
+    appearance:none;border:none;cursor:pointer;
+    padding:10px 14px;border-radius:.8rem;font-weight:600
+}
+.countdown .btn-primary{background:linear-gradient(135deg,var(--accent),var(--accent-2));color:#021016}
+.countdown .btn-ghost{background:transparent;border:1px solid rgba(255,255,255,.12);color:var(--text)}
+.countdown .done{padding:36px;text-align:center;font-size:clamp(1.1rem,2.4vw,1.35rem)}
+/* **fin countdown** */
+.views-field.views-field-field-photos { padding: 0 3% 3% 0; }
+@media(max-width: 1180px){
+    svg#umoa-bceao-map {
+        max-width: 100%;
+        height: auto;
+    }
+    svg#umoa-bceao-map g.info {
+        opacity: 1 !important;
+    }
+}
+@media(max-width: 991px){
+    .toggled .body .zone{ left: 250px; }
+    .toggled .btn-close { right: 0; }
+}
+@media(max-width: 767px){
+.page-node-374 .gouv {
+    width: 100%;
+   padding-right: 0;
+}
+}
+@media (max-width:640px){
+.countdown .timer{grid-template-columns:repeat(2,1fr)}
+}
+@media(max-width: 639px){
+.docDesc .docLink a{ width: 100%; }
+}
+</style>
+<script type="text/javascript" charset="utf-8">
+document.addEventListener("DOMContentLoaded", function () {
+    var elements = document.querySelectorAll('.itemDocIS');
+    if (elements.length > 0) {
+        // Créer un nouvel élément div pour regrouper les éléments
+        var container_docis = document.createElement('div');
+        container_docis .id = 'indicateurs-de-suivi';
+        container_docis .classList.add('cntOuvreFerme');
+        // Déplacer chaque élément sélectionné dans le nouveau conteneur
+        elements.forEach(function (element) {
+            container_docis .appendChild(element);
+        });
+        // Ajouter le conteneur
+        var parent_elt = document.querySelector('div[data-href="#indicateurs-de-suivi"]').parentElement;
+        parent_elt.appendChild(container_docis); 
+    }
+    // ouvrir premier element accordeon
+    if (document.body.classList.contains("page-node-8176") || document.body.classList.contains("page-node-3939")) {
+        const element_acc = document.querySelector("#first-ouvre-ferme .cntOuvreFerme");
+        if (element_acc) {
+              element_acc.style.display = "block";
+        }
+    }
+  
+});
+
+  
+
+</script>
+
+    
+  <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"fr\/","currentPath":"node","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"big_pipe\/big_pipe,blocktabs\/blocktabs,ckeditor_bootstrap_tabs\/tabs,core\/html5shiv,layout_discovery\/onecol,medianet\/global-css,medianet\/global-js,system\/base,views\/views.module,we_megamenu\/form.we-mega-menu-frontend,webform\/webform.ajax,webform\/webform.element.details.save,webform\/webform.element.details.toggle,webform\/webform.element.message,webform\/webform.form","theme":"medianet","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/fr\/node?field_hashtags_target_id=All\u0026field_theme_publication_target_id=73\u0026page=2\u0026ajax_form=1":true,"\/fr\/search-bceao":true},"bigPipePlaceholderIds":{"callback=Drupal%5Cblock%5CBlockViewBuilder%3A%3AlazyBuilder\u0026args%5B0%5D=views_block__appels_offres_block_11\u0026args%5B1%5D=full\u0026args%5B2%5D\u0026token=3mKUk_gExItVBfpwtVJy5jPi-h2jnOipn6o1UAM4OyI":true,"callback=Drupal%5Cblock%5CBlockViewBuilder%3A%3AlazyBuilder\u0026args%5B0%5D=blocktabshometabs1\u0026args%5B1%5D=full\u0026args%5B2%5D\u0026token=wMbHh4GnzhEwttDDH8lkh28N1olKtyMytkZAdvRe3TU":true,"callback=Drupal%5Cblock%5CBlockViewBuilder%3A%3AlazyBuilder\u0026args%5B0%5D=languageswitchercontent\u0026args%5B1%5D=full\u0026args%5B2%5D\u0026token=rWphBvDxsSJk6y_WW0CH7oQz1kKAlhMmgHaMZy3VaXg":true},"ajax":{"edit-actions-submit":{"callback":"::submitAjaxForm","event":"click","effect":"fade","speed":500,"progress":{"type":"throbber","message":""},"disable-refocus":true,"url":"\/fr\/node?field_hashtags_target_id=All\u0026field_theme_publication_target_id=73\u0026page=2\u0026ajax_form=1","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"valider"}}},"user":{"uid":0,"permissionsHash":"b199c8b22356c82faeb980488c6115be6478a4d40de69adb41cb5b1361682923"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.5.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.9.20"></script>
+<script src="/sites/default/files/languages/fr_yescHl_TDHXviTnQMG7JZDEWsCQgT7kklGun_ZTZFuU.js?tcuyj1"></script>
+<script src="/core/misc/drupal.js?v=8.9.20"></script>
+<script src="/core/misc/drupal.init.js?v=8.9.20"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/jquery-1-7-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/tabbable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/escape-selector-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/ie-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=1.12.1"></script>
+<script src="/modules/ckeditor_bootstrap_tabs/js/tabs.js?tcuyj1"></script>
+<script src="/themes/medianet/plugins/owlcarousel/dist/owl.carousel.min.js?tcuyj1"></script>
+<script src="/themes/medianet/js/modernizr.js?tcuyj1"></script>
+<script src="/themes/medianet/js/jquery.magnific-popup.js?tcuyj1"></script>
+<script src="/themes/medianet/js/wow.min.js?tcuyj1"></script>
+<script src="/themes/medianet/js/jquery.customSelect.min.js?tcuyj1"></script>
+<script src="/themes/medianet/js/jquery.cyclotron.js?tcuyj1"></script>
+<script src="/themes/medianet/js/jquery.validate.js?tcuyj1"></script>
+<script src="/themes/medianet/js/global.js?tcuyj1"></script>
+<script src="/core/misc/debounce.js?v=8.9.20"></script>
+<script src="/core/misc/form.js?v=8.9.20"></script>
+<script src="/modules/webform/js/webform.behaviors.js?v=8.9.20"></script>
+<script src="/core/misc/states.js?v=8.9.20"></script>
+<script src="/modules/webform/js/webform.states.js?v=8.9.20"></script>
+<script src="/modules/webform/js/webform.form.js?v=8.9.20"></script>
+<script src="/modules/webform/js/webform.element.details.save.js?v=8.9.20"></script>
+<script src="/core/misc/announce.js?v=8.9.20"></script>
+<script src="/modules/webform/js/webform.element.details.toggle.js?v=8.9.20"></script>
+<script src="/core/misc/progress.js?v=8.9.20"></script>
+<script src="/core/misc/ajax.js?v=8.9.20"></script>
+<script src="/core/themes/stable/js/ajax.js?v=8.9.20"></script>
+<script src="/core/assets/vendor/jquery-form/jquery.form.min.js?v=4.22"></script>
+<script src="/modules/webform/js/webform.scroll.js?v=8.9.20"></script>
+<script src="/modules/webform/js/webform.ajax.js?v=8.9.20"></script>
+<script src="/modules/webform/js/webform.element.message.js?v=8.9.20"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/tabs-min.js?v=1.12.1"></script>
+<script src="/modules/blocktabs/js/blocktabs.js?v=8.9.20"></script>
+<script src="/modules/we_megamenu/assets/js/we_mobile_menu.js?v=1"></script>
+<script src="/modules/we_megamenu/assets/js/we_megamenu_frontend.js?v=1"></script>
+<script src="/core/modules/big_pipe/js/big_pipe.js?v=8.9.20"></script>
+
+<script type="application/vnd.drupal-ajax" data-big-pipe-event="start"></script>
+    <script type="application/vnd.drupal-ajax" data-big-pipe-replacement-for-placeholder-with-id="callback=Drupal%5Cblock%5CBlockViewBuilder%3A%3AlazyBuilder&amp;args%5B0%5D=languageswitchercontent&amp;args%5B1%5D=full&amp;args%5B2%5D&amp;token=rWphBvDxsSJk6y_WW0CH7oQz1kKAlhMmgHaMZy3VaXg">
+    [{"command":"insert","method":"replaceWith","selector":"[data-big-pipe-placeholder-id=\u0022callback=Drupal%5Cblock%5CBlockViewBuilder%3A%3AlazyBuilder\u0026args%5B0%5D=languageswitchercontent\u0026args%5B1%5D=full\u0026args%5B2%5D\u0026token=rWphBvDxsSJk6y_WW0CH7oQz1kKAlhMmgHaMZy3VaXg\u0022]","data":"\u003Cdiv class=\u0022language-switcher-language-url blcLang wow fadeInDown\u0022 id=\u0022block-languageswitchercontent\u0022 role=\u0022navigation\u0022\u003E\n  \n    \n      \u003Cul class=\u0022links\u0022\u003E\u003Cli hreflang=\u0022en\u0022 data-drupal-link-system-path=\u0022\u0026lt;front\u0026gt;\u0022 class=\u0022en\u0022\u003E\u003Ca href=\u0022\/en\u0022 class=\u0022language-link\u0022 hreflang=\u0022en\u0022 data-drupal-link-system-path=\u0022\u0026lt;front\u0026gt;\u0022\u003EEN\u003C\/a\u003E\u003C\/li\u003E\u003Cli hreflang=\u0022fr\u0022 data-drupal-link-system-path=\u0022\u0026lt;front\u0026gt;\u0022 class=\u0022fr\u0022\u003E\u003Ca href=\u0022\/fr\u0022 class=\u0022language-link\u0022 hreflang=\u0022fr\u0022 data-drupal-link-system-path=\u0022\u0026lt;front\u0026gt;\u0022\u003EFR\u003C\/a\u003E\u003C\/li\u003E\u003C\/ul\u003E\n  \u003C\/div\u003E\n","settings":null}]
+    </script>    <script type="application/vnd.drupal-ajax" data-big-pipe-replacement-for-placeholder-with-id="callback=Drupal%5Cblock%5CBlockViewBuilder%3A%3AlazyBuilder&amp;args%5B0%5D=blocktabshometabs1&amp;args%5B1%5D=full&amp;args%5B2%5D&amp;token=wMbHh4GnzhEwttDDH8lkh28N1olKtyMytkZAdvRe3TU">
+    [{"command":"insert","method":"replaceWith","selector":"[data-big-pipe-placeholder-id=\u0022callback=Drupal%5Cblock%5CBlockViewBuilder%3A%3AlazyBuilder\u0026args%5B0%5D=blocktabshometabs1\u0026args%5B1%5D=full\u0026args%5B2%5D\u0026token=wMbHh4GnzhEwttDDH8lkh28N1olKtyMytkZAdvRe3TU\u0022]","data":"\u003Cdiv id=\u0022block-blocktabshometabs1\u0022 class=\u0022blcTabs wow fadeInDown\u0022\u003E\n  \n    \n      \u003Cdiv id=\u0022blocktabs-home_tabs_1\u0022 class=\u0022blocktabs\u0022\u003E\n\u003Cul\u003E\n\u003Cli\u003E\u003Ca href=\u0022#blocktabs-home_tabs_1-1\u0022\u003EMarch\u00e9s mon\u00e9taire et des titres\r\n\u003C\/a\u003E\u003C\/li\u003E\n\u003Cli\u003E\u003Ca href=\u0022#blocktabs-home_tabs_1-2\u0022\u003EPublications\u003C\/a\u003E\u003C\/li\u003E\n\u003Cli\u003E\u003Ca href=\u0022#blocktabs-home_tabs_1-3\u0022\u003ER\u00e9glementation\u003C\/a\u003E\u003C\/li\u003E\n\u003Cli\u003E\u003Ca href=\u0022#blocktabs-home_tabs_1-4\u0022\u003EEspace presse\u003C\/a\u003E\u003C\/li\u003E\n\u003Cli\u003E\u003Ca href=\u0022#blocktabs-home_tabs_1-5\u0022\u003EEv\u00e9nements\u003C\/a\u003E\u003C\/li\u003E\n\u003C\/ul\u003E\n\n\u003Cdiv id=\u0022blocktabs-home_tabs_1-1\u0022\u003E\u003Cdiv class=\u0022views-element-container\u0022\u003E\u003Cdiv class=\u0022js-view-dom-id-771fd7c03c23e18c40cfa1ef17716fa58a2bfe0102b91b2ad0cd1410a64e2ef8\u0022\u003E\n  \n  \n  \n\n\n      \u003Cheader\u003E\n      \n      \u003Cdiv class=\u0022marcHead\u0022\u003E \u003Cdiv class=\u0022tabsDivHead\u0022\u003E\u003Ca href=\u0022#?\u0022 class=\u0022lnkMar\u0022 \u003EMarch\u00e9 Mon\u00e9taire\u003C\/a\u003E \u003Ca href=\u0022#?\u0022 class=\u0022lnkTtr\u0022\u003EMarch\u00e9 des titres\u003C\/a\u003E\u003C\/div\u003E \u003Cdiv class=\u0022js-view-dom-id-ceb2dc7bd80b9bb6a1213a0c03628298d08b8c559e3e02250e8c4a0ccffeaff4\u0022\u003E\n  \n  \n  \n\n  \n  \n  \n\n    \u003Ch3\u003EMarch\u00e9s des titres publics et priv\u00e9s\u003C\/h3\u003E\n    \u003Cdiv class=\u0022elemRes views-row\u0022\u003E\u003Cdiv class=\u0022views-field views-field-nothing\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Cdiv class=\u0022dateTheme\u0022\u003E\u003Cspan class=\u0022date\u0022\u003E01 avril 2026\n\u003C\/span\u003E\u003Cspan class=\u0022theme\u0022\u003EMarch\u00e9s des titres publics et priv\u00e9s\u003C\/span\u003E\u003C\/div\u003E\n\u003Cdiv class=\u0022descTheme\u0022\u003E\u003Cdiv class=\u0022ttr\u0022\u003E\u003Ca href=\u0022\/fr\/appels-offres\/avis-dappel-doffres-relatif-lemission-simultanee-de-bons-et-obligations-du-tresor-461\u0022 hreflang=\u0022fr\u0022\u003EAvis d\u0026#039;appel d\u0026#039;offres relatif \u00e0 l\u0026#039;\u00e9mission simultan\u00e9e de Bons et Obligations du Tr\u00e9sor du Burkina du 8 avril 2026\u003C\/a\u003E\u003C\/div\u003E\u003Cdiv class=\u0022theme\u0022\u003EDate limite de d\u00e9p\u00f4t des dossiers 08 avril 2026\n\u003C\/div\u003E\u003C\/div\u003E\u003C\/span\u003E\u003C\/div\u003E\u003C\/div\u003E\n    \u003Cdiv class=\u0022elemRes views-row\u0022\u003E\u003Cdiv class=\u0022views-field views-field-nothing\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Cdiv class=\u0022dateTheme\u0022\u003E\u003Cspan class=\u0022date\u0022\u003E27 Mars 2026\n\u003C\/span\u003E\u003Cspan class=\u0022theme\u0022\u003EMarch\u00e9s des titres publics et priv\u00e9s\u003C\/span\u003E\u003C\/div\u003E\n\u003Cdiv class=\u0022descTheme\u0022\u003E\u003Cdiv class=\u0022ttr\u0022\u003E\u003Ca href=\u0022\/fr\/appels-offres\/avis-dappel-doffres-relatif-lemission-simultanee-de-bons-et-obligations-du-tresor-459\u0022 hreflang=\u0022fr\u0022\u003EAvis d\u0026#039;appel d\u0026#039;offres relatif \u00e0 l\u0026#039;\u00e9mission simultan\u00e9e de Bons et Obligations du Tr\u00e9sor du Togo du 3 avril 2026\u003C\/a\u003E\u003C\/div\u003E\u003Cdiv class=\u0022theme\u0022\u003EDate limite de d\u00e9p\u00f4t des dossiers 03 avril 2026\n\u003C\/div\u003E\u003C\/div\u003E\u003C\/span\u003E\u003C\/div\u003E\u003C\/div\u003E\n    \u003Cdiv class=\u0022elemRes views-row\u0022\u003E\u003Cdiv class=\u0022views-field views-field-nothing\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Cdiv class=\u0022dateTheme\u0022\u003E\u003Cspan class=\u0022date\u0022\u003E24 Mars 2026\n\u003C\/span\u003E\u003Cspan class=\u0022theme\u0022\u003EMarch\u00e9s des titres publics et priv\u00e9s\u003C\/span\u003E\u003C\/div\u003E\n\u003Cdiv class=\u0022descTheme\u0022\u003E\u003Cdiv class=\u0022ttr\u0022\u003E\u003Ca href=\u0022\/fr\/appels-offres\/avis-dappel-doffres-relatif-lemission-simultanee-de-bons-et-obligations-du-tresor-458\u0022 hreflang=\u0022fr\u0022\u003EAvis d\u0026#039;appel d\u0026#039;offres relatif \u00e0 l\u0026#039;\u00e9mission simultan\u00e9e de Bons et Obligations du Tr\u00e9sor du B\u00e9nin du 2 avril 2026\u003C\/a\u003E\u003C\/div\u003E\u003Cdiv class=\u0022theme\u0022\u003EDate limite de d\u00e9p\u00f4t des dossiers 02 avril 2026\n\u003C\/div\u003E\u003C\/div\u003E\u003C\/span\u003E\u003C\/div\u003E\u003C\/div\u003E\n\n    \n\n  \n  \n\n  \n  \n\u003C\/div\u003E\n\u003C\/div\u003E\n\n    \u003C\/header\u003E\n  \n  \n  \n  \u003Cdiv class=\u0022marcBdy\u0022\u003E \u003Cdiv class=\u0022tabsDivHead\u0022\u003E\u003Ca href=\u0022#?\u0022 class=\u0022lnkMar\u0022 \u003EMarch\u00e9 Mon\u00e9taire\u003C\/a\u003E \u003Ca href=\u0022#?\u0022 class=\u0022lnkTtr\u0022\u003EMarch\u00e9 des titres\u003C\/a\u003E\u003C\/div\u003E   \u003Ch3\u003EMarch\u00e9 Mon\u00e9taire\u003C\/h3\u003E\n\u003Cdiv class=\u0022tabsDiv\u0022\u003E\n    \u003Cdiv class=\u0022elemRes views-row\u0022\u003E\n    \u003Cdiv class=\u0022views-field views-field-nothing\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Cdiv class=\u0022dateTheme\u0022\u003E\u003Cspan class=\u0022date\u0022\u003E27 Mars 2026\n\u003C\/span\u003E\u003Cspan class=\u0022theme\u0022\u003EMarch\u00e9 Mon\u00e9taire\u003C\/span\u003E\u003C\/div\u003E\n\u003Cdiv class=\u0022descTheme\u0022\u003E\u003Cdiv class=\u0022ttr\u0022\u003E\u003Ca href=\u0022\/fr\/appels-offres\/avis-dappel-doffres-hebdomadaire-dinjection-de-liquidite-ndeg13h2026-du-30-mars-2026\u0022 hreflang=\u0022fr\u0022\u003EAvis d\u0026#039;appel d\u0026#039;offres hebdomadaire d\u0026#039;injection de liquidit\u00e9 N\u00b013\/H\/2026 du 30 mars 2026\u003C\/a\u003E\u003C\/div\u003E\u003Cdiv class=\u0022theme\u0022\u003EDate limite de d\u00e9p\u00f4t des dossiers 30 Mars 2026\n\u003C\/div\u003E\u003C\/div\u003E\u003C\/span\u003E\u003C\/div\u003E\n  \u003C\/div\u003E\n    \u003Cdiv class=\u0022elemRes views-row\u0022\u003E\n    \u003Cdiv class=\u0022views-field views-field-nothing\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Cdiv class=\u0022dateTheme\u0022\u003E\u003Cspan class=\u0022date\u0022\u003E19 Mars 2026\n\u003C\/span\u003E\u003Cspan class=\u0022theme\u0022\u003EMarch\u00e9 Mon\u00e9taire\u003C\/span\u003E\u003C\/div\u003E\n\u003Cdiv class=\u0022descTheme\u0022\u003E\u003Cdiv class=\u0022ttr\u0022\u003E\u003Ca href=\u0022\/fr\/appels-offres\/avis-dappel-doffres-hebdomadaire-dinjection-de-liquidite-ndeg12h2026-du-23-mars-2026\u0022 hreflang=\u0022fr\u0022\u003EAvis d\u0026#039;appel d\u0026#039;offres hebdomadaire d\u0026#039;injection de liquidit\u00e9 N\u00b012\/H\/2026 du 23 mars 2026\u003C\/a\u003E\u003C\/div\u003E\u003Cdiv class=\u0022theme\u0022\u003EDate limite de d\u00e9p\u00f4t des dossiers 23 Mars 2026\n\u003C\/div\u003E\u003C\/div\u003E\u003C\/span\u003E\u003C\/div\u003E\n  \u003C\/div\u003E\n    \u003Cdiv class=\u0022elemRes views-row\u0022\u003E\n    \u003Cdiv class=\u0022views-field views-field-nothing\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Cdiv class=\u0022dateTheme\u0022\u003E\u003Cspan class=\u0022date\u0022\u003E13 Mars 2026\n\u003C\/span\u003E\u003Cspan class=\u0022theme\u0022\u003EMarch\u00e9 Mon\u00e9taire\u003C\/span\u003E\u003C\/div\u003E\n\u003Cdiv class=\u0022descTheme\u0022\u003E\u003Cdiv class=\u0022ttr\u0022\u003E\u003Ca href=\u0022\/fr\/appels-offres\/avis-dappel-doffres-hebdomadaire-dinjection-de-liquidite-ndeg11h2026-03m2026-et\u0022 hreflang=\u0022fr\u0022\u003EAvis d\u0026#039;appel d\u0026#039;offres hebdomadaire d\u0026#039;injection de liquidit\u00e9 N\u00b011\/H\/2026, 03\/M\/2026 et 03\/OdR\/2026 du 16 mars 2026\u003C\/a\u003E\u003C\/div\u003E\u003Cdiv class=\u0022theme\u0022\u003EDate limite de d\u00e9p\u00f4t des dossiers 16 Mars 2026\n\u003C\/div\u003E\u003C\/div\u003E\u003C\/span\u003E\u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\u003C\/div\u003E\n  \n  \n\n  \n  \n\n  \n  \n\u003C\/div\u003E\n\u003C\/div\u003E\n\u003C\/div\u003E\n\u003Cdiv id=\u0022blocktabs-home_tabs_1-2\u0022\u003E\u003Cdiv class=\u0022views-element-container\u0022\u003E\u003Cdiv class=\u0022js-view-dom-id-e0af6214abcf23708f7be0869a4828b25ecf2ec510f8c5fa8805ef17e2f756de\u0022\u003E\n  \n  \n  \n\n  \n  \n  \n\n      \u003Cdiv class=\u0022elemRes views-row\u0022\u003E\u003Cdiv class=\u0022views-field views-field-nothing\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Cdiv class=\u0022dateTheme\u0022\u003E\u003Cspan class=\u0022date\u0022\u003E13 Mars 2026\n\u003C\/span\u003E\u003Cspan class=\u0022theme\u0022\u003EPublications periodique, Rapports\u003C\/span\u003E\u003C\/div\u003E\n    \u003Ca class=\u0022descTheme\u0022 href=\u0022\/sites\/default\/files\/2026-03\/Rapport%20annuel%20sur%20les%20services%20financiers%20num%C3%A9riques%20dans%20l%27UEMOA%20-%202024.pdf\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022ttr\u0022\u003ERapport annuel sur les services financiers num\u00e9riques dans l\u0026#039;UEMOA - 2024\u003C\/span\u003E\u003C\/a\u003E\n\u003C\/span\u003E\u003C\/div\u003E\u003C\/div\u003E\n    \u003Cdiv class=\u0022elemRes views-row\u0022\u003E\u003Cdiv class=\u0022views-field views-field-nothing\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Cdiv class=\u0022dateTheme\u0022\u003E\u003Cspan class=\u0022date\u0022\u003E13 Mars 2026\n\u003C\/span\u003E\u003Cspan class=\u0022theme\u0022\u003EPublications periodique, Rapports\u003C\/span\u003E\u003C\/div\u003E\n    \u003Ca class=\u0022descTheme\u0022 href=\u0022\/sites\/default\/files\/2026-03\/RAPPORT-SUR-LA-POLITIQUE-MONETAIRE-DANS-L-UMOA-DE-MARS-2026.pdf\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022ttr\u0022\u003ERapport sur la Politique Mon\u00e9taire dans l\u0026#039;UMOA - mars 2026\u003C\/span\u003E\u003C\/a\u003E\n\u003C\/span\u003E\u003C\/div\u003E\u003C\/div\u003E\n    \u003Cdiv class=\u0022elemRes views-row\u0022\u003E\u003Cdiv class=\u0022views-field views-field-nothing\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Cdiv class=\u0022dateTheme\u0022\u003E\u003Cspan class=\u0022date\u0022\u003E11 Mars 2026\n\u003C\/span\u003E\u003Cspan class=\u0022theme\u0022\u003EPublications periodique, Notes\u003C\/span\u003E\u003C\/div\u003E\n    \u003Ca class=\u0022descTheme\u0022 href=\u0022\/sites\/default\/files\/2026-03\/Note%20de%20conjoncture%20%C3%A9conomique%20des%20pays%20de%20l%27UEMOA_F%C3%A9vrier%202026%20%282%29.pdf\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022ttr\u0022\u003ENote mensuelle de conjoncture \u00e9conomique dans les pays de l\u0026#039;UEMOA - f\u00e9vrier 2026\u003C\/span\u003E\u003C\/a\u003E\n\u003C\/span\u003E\u003C\/div\u003E\u003C\/div\u003E\n\n  \n  \n  \u003Cdiv class=\u0022divPlus\u0022\u003E\u003Ca class=\u0022btVoirTous\u0022 href=\u0022\/fr\/publications\u0022\u003E  Voir plus\u003C\/a\u003E\u003C\/div\u003E\n  \n  \n\n  \n  \n\u003C\/div\u003E\n\u003C\/div\u003E\n\u003C\/div\u003E\n\u003Cdiv id=\u0022blocktabs-home_tabs_1-3\u0022\u003E\u003Cdiv class=\u0022views-element-container\u0022\u003E\u003Cdiv class=\u0022js-view-dom-id-b3bdcb31f84ee7ef894913cd9430d6b08dade6397facf974a370a50d5bbc8561\u0022\u003E\n  \n  \n  \n\n  \n  \n  \n\n      \u003Cdiv class=\u0022elemRes views-row\u0022\u003E\u003Cdiv class=\u0022views-field views-field-nothing\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Cdiv class=\u0022dateTheme\u0022\u003E\u003Cspan class=\u0022date\u0022\u003E01 F\u00e9vrier  2024\n\u003C\/span\u003E\u003Cspan class=\u0022theme\u0022\u003ER\u00e9glementation bancaire \u003C\/span\u003E\u003C\/div\u003E\n\u003Ca class=\u0022descTheme\u0022 href=\u0022\/sites\/default\/files\/2024-02\/AVIS%20N%C2%B0002-04-2023%20portant%20modification%20temporaire%20de%20la%20norme%20relative%20aux%20pr%C3%AAts%20aux%20principaux%20actionnaires.pdf\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022ttr\u0022\u003EAvis N\u00b0002-04-2023 relatif \u00e0 l\u2019exclusion temporaire des titres publics \u00e9mis par les Etats de l\u2019UMOA dans le calcul de la  norme prudentielle portant sur les pr\u00eats aux principaux actionnaires, aux dirigeants, au personnel et aux commissaires aux comptes\u003C\/span\u003E\u003C\/a\u003E\u003C\/span\u003E\u003C\/div\u003E\u003C\/div\u003E\n    \u003Cdiv class=\u0022elemRes views-row\u0022\u003E\u003Cdiv class=\u0022views-field views-field-nothing\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Cdiv class=\u0022dateTheme\u0022\u003E\u003Cspan class=\u0022date\u0022\u003E01 F\u00e9vrier  2024\n\u003C\/span\u003E\u003Cspan class=\u0022theme\u0022\u003ER\u00e9glementation bancaire \u003C\/span\u003E\u003C\/div\u003E\n\u003Ca class=\u0022descTheme\u0022 href=\u0022\/sites\/default\/files\/2024-02\/AVIS%20N%C2%B0001-01-2024%20FIXANT%20LE%20CAPITAL%20SOCIAL%20MINIMUM%20DES%20BANQUES%20ET%20%C3%89TABLISSEMENTS%20FINANCIERS%20DE%20CR%C3%89DIT%20DANS%20LES%20ETATS%20MEMBRES%20DE%20L%E2%80%99UMOA.pdf\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022ttr\u0022\u003EAvis N\u00b0001-01-2024 fixant le capital social minimum des banques et \u00e9tablissements financiers de cr\u00e9dit dans les Etats membres de l\u2019Union Mon\u00e9taire Ouest Africaine (UMOA)\u003C\/span\u003E\u003C\/a\u003E\u003C\/span\u003E\u003C\/div\u003E\u003C\/div\u003E\n    \u003Cdiv class=\u0022elemRes views-row\u0022\u003E\u003Cdiv class=\u0022views-field views-field-nothing\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Cdiv class=\u0022dateTheme\u0022\u003E\u003Cspan class=\u0022date\u0022\u003E31 janvier 2024\n\u003C\/span\u003E\u003Cspan class=\u0022theme\u0022\u003ELutte contre le blanchiment de capitaux et le financement du terrorisme\u003C\/span\u003E\u003C\/div\u003E\n\u003Ca class=\u0022descTheme\u0022 href=\u0022\/sites\/default\/files\/2024-01\/D%C3%A9cision%20N%C2%B021%20du%2021%20d%C3%A9cembre%202023%20fixant%20les%20montants%20seuils%20pour%20la%20mise%20en%20oeuvre%20de%20la%20loi%20uniforme%20relative%20%C3%A0%20la%20LBCFTFP.pdf\u0022 target=\u0022_blank\u0022\u003E\u003Cspan class=\u0022ttr\u0022\u003ED\u00e9cision n\u00b0021 du 21\/12\/2023\/CM\/UMOA fixant les montants des seuils pour la mise en oeuvre de la loi uniforme relative \u00e0 la lutte contre le blanchiment de capitaux, le financement du terrorisme et de la prolif\u00e9ration des armes de destruction massive\u003C\/span\u003E\u003C\/a\u003E\u003C\/span\u003E\u003C\/div\u003E\u003C\/div\u003E\n\n  \n  \n  \u003Cdiv class=\u0022divPlus\u0022\u003E\u003Ca class=\u0022btVoirTous\u0022 href=\u0022\/fr\/reglementations\u0022\u003E  Voir plus\u003C\/a\u003E\u003C\/div\u003E\n  \n  \n\n  \n  \n\u003C\/div\u003E\n\u003C\/div\u003E\n\u003C\/div\u003E\n\u003Cdiv id=\u0022blocktabs-home_tabs_1-4\u0022\u003E\u003Cdiv class=\u0022views-element-container\u0022\u003E\u003Cdiv class=\u0022js-view-dom-id-2b38a9dc1e931fb37b297f4db6090e6c6ec1455cb19ac6eb4cf23aa6f5680967\u0022\u003E\n  \n  \n  \n\n  \n  \n  \n\n      \u003Cdiv class=\u0022elemRes views-row\u0022\u003E\u003Cdiv class=\u0022views-field views-field-nothing\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Cdiv class=\u0022dateTheme\u0022\u003E\u003Cspan class=\u0022date\u0022\u003E02 avril 2026\n\u003C\/span\u003E\u003C\/div\u003E\n\u003Ca class=\u0022descTheme\u0022 href=\u0022\/fr\/communique-presse\/connexion-la-plateforme-interoperable-du-systeme-de-paiement-instantane-pi-spi-de\u0022\u003E\u003Cspan class=\u0022ttr\u0022\u003EConnexion \u00e0 la Plateforme Interop\u00e9rable du Syst\u00e8me de Paiement Instantan\u00e9 (PI-SPI) de l\u2019Union Economique et Mon\u00e9taire Ouest Africaine\u003C\/span\u003E\u003C\/a\u003E\u003C\/span\u003E\u003C\/div\u003E\u003C\/div\u003E\n    \u003Cdiv class=\u0022elemRes views-row\u0022\u003E\u003Cdiv class=\u0022views-field views-field-nothing\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Cdiv class=\u0022dateTheme\u0022\u003E\u003Cspan class=\u0022date\u0022\u003E02 avril 2026\n\u003C\/span\u003E\u003C\/div\u003E\n\u003Ca class=\u0022descTheme\u0022 href=\u0022\/fr\/communique-presse\/liste-des-participants-autorises-ouvrir-les-services-de-pi-spi-au-public\u0022\u003E\u003Cspan class=\u0022ttr\u0022\u003EListe des participants autoris\u00e9s \u00e0 ouvrir les services de PI-SPI au public\u003C\/span\u003E\u003C\/a\u003E\u003C\/span\u003E\u003C\/div\u003E\u003C\/div\u003E\n    \u003Cdiv class=\u0022elemRes views-row\u0022\u003E\u003Cdiv class=\u0022views-field views-field-nothing\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Cdiv class=\u0022dateTheme\u0022\u003E\u003Cspan class=\u0022date\u0022\u003E01 avril 2026\n\u003C\/span\u003E\u003C\/div\u003E\n\u003Ca class=\u0022descTheme\u0022 href=\u0022\/fr\/communique-presse\/liste-des-etablissements-de-credit-agrees-dans-lumoa-au-31-decembre-2025\u0022\u003E\u003Cspan class=\u0022ttr\u0022\u003EListe des \u00e9tablissements de cr\u00e9dit agr\u00e9\u00e9s dans l\u2019UMOA au 31 d\u00e9cembre 2025\u003C\/span\u003E\u003C\/a\u003E\u003C\/span\u003E\u003C\/div\u003E\u003C\/div\u003E\n\n  \n  \n  \u003Cdiv class=\u0022divPlus\u0022\u003E\u003Ca class=\u0022btVoirTous\u0022 href=\u0022\/fr\/communique-presse\u0022\u003E  Voir plus\u003C\/a\u003E\u003C\/div\u003E\n  \n  \n\n  \n  \n\u003C\/div\u003E\n\u003C\/div\u003E\n\u003C\/div\u003E\n\u003Cdiv id=\u0022blocktabs-home_tabs_1-5\u0022\u003E\u003Cdiv class=\u0022views-element-container\u0022\u003E\u003Cdiv class=\u0022js-view-dom-id-119510f6b3de169583ef9e918b88b7f358f39b9f290c136233da029dc0e16b9b\u0022\u003E\n  \n  \n  \n\n  \n  \n  \n\n      \u003Cdiv class=\u0022elemRes views-row\u0022\u003E\u003Cdiv class=\u0022views-field views-field-nothing\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Cdiv class=\u0022dateTheme\u0022\u003E\u003Cspan class=\u0022date\u0022\u003E27 Mars 2026\n\u003C\/span\u003E\u003Cspan class=\u0022theme\u0022\u003E\u003C\/span\u003E\u003C\/div\u003E\n\u003Ca class=\u0022descTheme\u0022 href=\u0022\/fr\/evenement\/conseil-des-ministres-de-lunion-2\u0022\u003E\u003Cspan class=\u0022ttr\u0022\u003EConseil des Ministres de l\u0026#039;Union\u003C\/span\u003E\u003C\/a\u003E\u003C\/span\u003E\u003C\/div\u003E\u003C\/div\u003E\n    \u003Cdiv class=\u0022elemRes views-row\u0022\u003E\u003Cdiv class=\u0022views-field views-field-nothing\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Cdiv class=\u0022dateTheme\u0022\u003E\u003Cspan class=\u0022date\u0022\u003E04 Mars 2026\n\u003C\/span\u003E\u003Cspan class=\u0022theme\u0022\u003E\u003C\/span\u003E\u003C\/div\u003E\n\u003Ca class=\u0022descTheme\u0022 href=\u0022\/fr\/evenement\/reunion-du-comite-de-politique-monetaire-de-la-bceao-0\u0022\u003E\u003Cspan class=\u0022ttr\u0022\u003ER\u00e9union du Comit\u00e9 de Politique Mon\u00e9taire de la BCEAO\u003C\/span\u003E\u003C\/a\u003E\u003C\/span\u003E\u003C\/div\u003E\u003C\/div\u003E\n    \u003Cdiv class=\u0022elemRes views-row\u0022\u003E\u003Cdiv class=\u0022views-field views-field-nothing\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Cdiv class=\u0022dateTheme\u0022\u003E\u003Cspan class=\u0022date\u0022\u003E10 d\u00e9cembre 2025\n\u003C\/span\u003E\u003Cspan class=\u0022theme\u0022\u003E\u003C\/span\u003E\u003C\/div\u003E\n\u003Ca class=\u0022descTheme\u0022 href=\u0022\/fr\/evenement\/atelier-regional-sur-loperationnalisation-du-laboratoire-dinnovation-financiere-de-la\u0022\u003E\u003Cspan class=\u0022ttr\u0022\u003EAtelier r\u00e9gional sur l\u2019op\u00e9rationnalisation du laboratoire d\u2019innovation financi\u00e8re de la BCEAO (LIF-BCEAO) \u003C\/span\u003E\u003C\/a\u003E\u003C\/span\u003E\u003C\/div\u003E\u003C\/div\u003E\n\n  \n  \n \u003Cdiv class=\u0022divPlus\u0022\u003E \u003Ca class=\u0022btVoirTous\u0022 href=\u0022\/fr\/evenements\u0022\u003E  Voir plus\u003C\/a\u003E\u003C\/div\u003E\n  \n  \n\n  \n  \n\u003C\/div\u003E\n\u003C\/div\u003E\n\u003C\/div\u003E\n\n\u003C\/div\u003E\n\n\n  \u003C\/div\u003E\n","settings":null}]
+    </script>    <script type="application/vnd.drupal-ajax" data-big-pipe-replacement-for-placeholder-with-id="callback=Drupal%5Cblock%5CBlockViewBuilder%3A%3AlazyBuilder&amp;args%5B0%5D=views_block__appels_offres_block_11&amp;args%5B1%5D=full&amp;args%5B2%5D&amp;token=3mKUk_gExItVBfpwtVJy5jPi-h2jnOipn6o1UAM4OyI">
+    [{"command":"insert","method":"replaceWith","selector":"[data-big-pipe-placeholder-id=\u0022callback=Drupal%5Cblock%5CBlockViewBuilder%3A%3AlazyBuilder\u0026args%5B0%5D=views_block__appels_offres_block_11\u0026args%5B1%5D=full\u0026args%5B2%5D\u0026token=3mKUk_gExItVBfpwtVJy5jPi-h2jnOipn6o1UAM4OyI\u0022]","data":"\u003Cdiv class=\u0022views-element-container blcBnCar wow fadeInLeft aa\u0022 id=\u0022block-views-block-appels-offres-block-11\u0022\u003E\n  \n      \u003Ch2\u003EMarch\u00e9s publics \u0026amp; Achats\u003C\/h2\u003E\n    \n      \u003Cdiv\u003E\u003Cdiv class=\u0022test js-view-dom-id-e50a69224718416f9f8cf18da8dc5f3ed8c57eda5ca9697ca8c9c4f24d523eaa\u0022\u003E\n  \n  \n  \n\n  \n  \n  \n\n      \u003Cdiv\u003E\u003Cdiv class=\u0022views-field views-field-nothing\u0022\u003E\u003Cspan class=\u0022field-content\u0022\u003E\u003Cp\u003E Fourniture d\u0026#039;une solution d\u0026#039;investigation des r\u00e9seaux informatiques et d\u0026#039;une solution d\u0026#039;audit de conformit\u00e9 des configurations des \u00e9quipements r\u00e9seaux informatiques\u003Cp\u003E\n\u003Cp\u003E \u003Ca href=\u0022appels-offres\/appels-offres-marches-publics-achats\u0022\u003E Voir plus  \u203a\u203a\u003C\/a\u003E\u003C\/p\u003E\n\u003Cspan class=\u0022clear\u0022\u003E\u003C\/span\u003E\n\u003C\/span\u003E\u003C\/div\u003E\u003C\/div\u003E\n\n    \n\n  \n  \n\n  \n  \n\u003C\/div\u003E\n\u003C\/div\u003E\n\n  \u003C\/div\u003E\n","settings":null}]
+    </script>
+<script type="application/vnd.drupal-ajax" data-big-pipe-event="stop"></script>
+</body>
+</html>
