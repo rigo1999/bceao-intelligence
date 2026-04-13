@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>BCEAO RAG — Architecture & Flow</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    background: #0f1117;
+    color: #e2e8f0;
+    min-height: 100vh;
+    padding: 40px 24px;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin-bottom: 6px;
+    background: linear-gradient(135deg, #6fa3ef, #C8A045);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .subtitle {
+    text-align: center;
+    font-size: 12px;
+    color: #64748b;
+    margin-bottom: 40px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  /* ── LAYERS ── */
+  .diagram {
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .layer {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 20px 0;
+    position: relative;
+  }
+
+  .layer-label {
+    width: 90px;
+    flex-shrink: 0;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: right;
+    padding-right: 12px;
+    border-right: 2px solid #1e293b;
+    line-height: 1.4;
+  }
+
+  .nodes {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  /* ── NODE ── */
+  .node {
+    border-radius: 12px;
+    padding: 12px 16px;
+    font-size: 12px;
+    font-weight: 600;
+    position: relative;
+    border: 1px solid transparent;
+    transition: transform 0.2s, box-shadow 0.2s;
+    cursor: default;
+    min-width: 120px;
+    text-align: center;
+  }
+  .node:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+  }
+  .node .tag {
+    font-size: 9px;
+    font-weight: 500;
+    opacity: 0.7;
+    display: block;
+    margin-top: 3px;
+    letter-spacing: 0.04em;
+  }
+  .node .badge {
+    position: absolute;
+    top: -7px; right: -7px;
+    font-size: 9px;
+    font-weight: 700;
+    padding: 2px 6px;
+    border-radius: 10px;
+    letter-spacing: 0.03em;
+  }
+
+  /* ── COLOR THEMES ── */
+  .ui    { background: #0f2d5e; border-color: #1d4ed8; color: #93c5fd; }
+  .api   { background: #0f3d2e; border-color: #16a34a; color: #86efac; }
+  .ai    { background: #2e1b5e; border-color: #7c3aed; color: #c4b5fd; }
+  .store { background: #3d2200; border-color: #d97706; color: #fcd34d; }
+  .web   { background: #3d0f2e; border-color: #db2777; color: #f9a8d4; }
+  .cache { background: #0f3d3d; border-color: #0891b2; color: #67e8f9; }
+  .user  { background: #1e293b; border-color: #475569; color: #cbd5e1; }
+
+  .badge-ui    { background: #1d4ed8; color: #fff; }
+  .badge-api   { background: #16a34a; color: #fff; }
+  .badge-ai    { background: #7c3aed; color: #fff; }
+  .badge-store { background: #d97706; color: #fff; }
+
+  /* ── ARROWS ── */
+  .arrow-down {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 36px;
+    position: relative;
+  }
+  .arrow-down::before {
+    content: '';
+    position: absolute;
+    left: 50%; top: 0;
+    transform: translateX(-50%);
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(to bottom, #334155, #475569);
+  }
+  .arrow-down::after {
+    content: '▼';
+    color: #64748b;
+    font-size: 10px;
+    position: absolute;
+    bottom: -2px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #0f1117;
+    padding: 0 3px;
+  }
+  .arrow-label {
+    position: absolute;
+    right: calc(50% - 160px);
+    font-size: 10px;
+    color: #64748b;
+    background: #0f1117;
+    padding: 2px 6px;
+    border-radius: 4px;
+    border: 1px solid #1e293b;
+    white-space: nowrap;
+  }
+
+  /* ── DECISION ── */
+  .decision {
+    display: flex;
+    align-items: stretch;
+    gap: 10px;
+    padding: 0;
+    margin: 0 0 0 106px;
+  }
+  .decision-box {
+    background: #1e1030;
+    border: 1px dashed #7c3aed55;
+    border-radius: 12px;
+    padding: 12px 16px;
+    font-size: 11px;
+    color: #a78bfa;
+    flex: 1;
+  }
+  .decision-box h4 {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 8px;
+    color: #7c3aed;
+  }
+  .decision-item {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 5px;
+    align-items: flex-start;
+    font-size: 11px;
+  }
+  .decision-item .step {
+    background: #7c3aed22;
+    border: 1px solid #7c3aed44;
+    color: #a78bfa;
+    font-weight: 700;
+    font-size: 9px;
+    border-radius: 50%;
+    width: 18px; height: 18px;
+    display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0;
+  }
+  .yes { color: #4ade80; font-weight: 700; }
+  .no  { color: #f87171; font-weight: 700; }
+
+  /* ── CONCEPTS ── */
+  .concepts {
+    max-width: 960px;
+    margin: 48px auto 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 12px;
+  }
+  .concept-card {
+    background: #0f1823;
+    border: 1px solid #1e293b;
+    border-radius: 12px;
+    padding: 16px;
+    transition: border-color 0.2s;
+  }
+  .concept-card:hover { border-color: #334155; }
+  .concept-card h3 {
+    font-size: 12px;
+    font-weight: 700;
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .concept-card p {
+    font-size: 11px;
+    color: #64748b;
+    line-height: 1.6;
+  }
+  .dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+
+  /* ── STACK ── */
+  .stack {
+    max-width: 960px;
+    margin: 32px auto 0;
+    background: #0f1823;
+    border: 1px solid #1e293b;
+    border-radius: 16px;
+    padding: 20px 24px;
+  }
+  .stack h2 {
+    font-size: 13px;
+    font-weight: 700;
+    color: #94a3b8;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 16px;
+  }
+  .stack-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 8px;
+  }
+  .stack-item {
+    display: flex; align-items: center; gap: 8px;
+    background: #0f1117;
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 11px;
+    font-weight: 600;
+    border: 1px solid #1e293b;
+  }
+  .stack-icon { font-size: 16px; }
+
+  /* ── PULSE ANIM ── */
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.4} }
+  .live { animation: pulse 2s infinite; }
+</style>
+</head>
+<body>
+
+<h1>BCEAO RAG — Architecture & Data Flow</h1>
+<p class="subtitle">Comment une question traverse le système et devient une réponse</p>
+
+<div class="diagram">
+
+  <!-- USER -->
+  <div class="layer">
+    <div class="layer-label" style="color:#94a3b8">Utilisateur</div>
+    <div class="nodes">
+      <div class="node user">
+        💬 Question posée
+        <span class="tag">ex: "Quel est le taux directeur 2023 ?"</span>
+      </div>
+      <div class="node user" style="opacity:0.5">
+        📜 Historique
+        <span class="tag">3 derniers échanges</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="arrow-down" style="margin-left:106px">
+    <span class="arrow-label">POST /chat { question, history[] }</span>
+  </div>
+
+  <!-- FRONTEND -->
+  <div class="layer">
+    <div class="layer-label" style="color:#93c5fd">Frontend</div>
+    <div class="nodes">
+      <div class="node ui">
+        ⚛️ React + Vite
+        <span class="tag">localhost:5173</span>
+        <span class="badge badge-ui">UI</span>
+      </div>
+      <div class="node ui">
+        🔄 SSE Parser
+        <span class="tag">streaming tokens</span>
+      </div>
+      <div class="node ui">
+        🏷️ Source Badge
+        <span class="tag">LOCAL / WEB / CACHE</span>
+      </div>
+      <div class="node ui">
+        📝 ReactMarkdown
+        <span class="tag">rendu formaté</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="arrow-down" style="margin-left:106px">
+    <span class="arrow-label">HTTP SSE stream</span>
+  </div>
+
+  <!-- BACKEND -->
+  <div class="layer">
+    <div class="layer-label" style="color:#86efac">Backend</div>
+    <div class="nodes">
+      <div class="node api">
+        🐍 FastAPI
+        <span class="tag">localhost:8000</span>
+        <span class="badge badge-api">API</span>
+      </div>
+      <div class="node api">
+        🧵 Thread Bridge
+        <span class="tag">asyncio.Queue</span>
+      </div>
+      <div class="node api">
+        📡 StreamingResponse
+        <span class="tag">text/event-stream</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="arrow-down" style="margin-left:106px">
+    <span class="arrow-label">run_query_stream(question, history)</span>
+  </div>
+
+  <!-- PIPELINE -->
+  <div class="layer">
+    <div class="layer-label" style="color:#a78bfa">Pipeline<br/>RAG</div>
+    <div class="nodes" style="flex:1">
+      <div style="flex:1">
+        <div class="decision">
+          <div class="decision-box">
+            <h4>🔀 Logique de décision</h4>
+            <div class="decision-item">
+              <div class="step">1</div>
+              <span>Salutation ? <span class="yes">→ réponse directe</span></span>
+            </div>
+            <div class="decision-item">
+              <div class="step">2</div>
+              <span>Question contextuelle (ce/cet/il…) ? <span class="no">→ skip cache</span></span>
+            </div>
+            <div class="decision-item">
+              <div class="step">3</div>
+              <span>Cache hit sémantique (SQLite) ? <span class="yes">→ réponse instantanée</span></span>
+            </div>
+            <div class="decision-item">
+              <div class="step">4</div>
+              <span>Embed question → ChromaDB similarity search → top-K docs</span>
+            </div>
+            <div class="decision-item">
+              <div class="step">5</div>
+              <span>Docs trouvés ? <span class="yes">→ RAG local + LLM</span> <span class="no">sinon → DuckDuckGo</span></span>
+            </div>
+            <div class="decision-item">
+              <div class="step">6</div>
+              <span>Sauvegarder réponse en cache</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="arrow-down" style="margin-left:106px"></div>
+
+  <!-- AI LAYER -->
+  <div class="layer">
+    <div class="layer-label" style="color:#c4b5fd">IA locale</div>
+    <div class="nodes">
+      <div class="node ai">
+        🦙 Ollama
+        <span class="tag">runtime LLM local</span>
+        <span class="badge badge-ai">AI</span>
+      </div>
+      <div class="node ai">
+        🧠 qwen2.5:1.5b
+        <span class="tag">génération réponse</span>
+      </div>
+      <div class="node ai">
+        🔢 nomic-embed-text
+        <span class="tag">vectorisation</span>
+      </div>
+      <div class="node ai">
+        🔌 Socket TCP direct
+        <span class="tag">streaming tokens</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="arrow-down" style="margin-left:106px"></div>
+
+  <!-- STORAGE -->
+  <div class="layer">
+    <div class="layer-label" style="color:#fcd34d">Stockage</div>
+    <div class="nodes">
+      <div class="node store">
+        🗄️ ChromaDB
+        <span class="tag">vectorstore BCEAO</span>
+        <span class="badge badge-store">DB</span>
+      </div>
+      <div class="node store">
+        📄 PDFs BCEAO
+        <span class="tag">documents ingérés</span>
+      </div>
+      <div class="node cache" style="background:#0a2a2a;border-color:#0891b2">
+        ⚡ Cache SQLite
+        <span class="tag">réponses sémantiques</span>
+      </div>
+      <div class="node web" style="background:#2a0a1a;border-color:#db2777">
+        🌐 DuckDuckGo
+        <span class="tag">fallback web</span>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!-- CONCEPTS -->
+<div class="concepts">
+  <div class="concept-card">
+    <h3><span class="dot" style="background:#7c3aed"></span>RAG</h3>
+    <p>Retrieval Augmented Generation — le LLM répond en s'appuyant sur des documents réels récupérés par similarité vectorielle, pas sur sa mémoire seule.</p>
+  </div>
+  <div class="concept-card">
+    <h3><span class="dot" style="background:#0891b2"></span>Cache sémantique</h3>
+    <p>Les réponses déjà générées sont stockées avec leur embedding. Si une nouvelle question est similaire (cosinus &gt; seuil), la réponse est retournée instantanément.</p>
+  </div>
+  <div class="concept-card">
+    <h3><span class="dot" style="background:#16a34a"></span>SSE Streaming</h3>
+    <p>Server-Sent Events — les tokens LLM sont envoyés au client au fur et à mesure. L'utilisateur voit la réponse s'écrire en temps réel sans attendre la fin.</p>
+  </div>
+  <div class="concept-card">
+    <h3><span class="dot" style="background:#d97706"></span>Embeddings</h3>
+    <p>Chaque question et chaque chunk de document est transformé en vecteur numérique (1536 dims). La similarité cosinus retrouve les passages les plus proches.</p>
+  </div>
+  <div class="concept-card">
+    <h3><span class="dot" style="background:#C8A045"></span>Mémoire conv.</h3>
+    <p>Les 3 derniers échanges sont envoyés au LLM à chaque requête. Il comprend "ce rapport" ou "cet indicateur" grâce au contexte de la conversation.</p>
+  </div>
+  <div class="concept-card">
+    <h3><span class="dot" style="background:#db2777"></span>Fallback web</h3>
+    <p>Si ChromaDB ne trouve pas l'info dans les documents BCEAO, une recherche DuckDuckGo est lancée en parallèle et le résultat est injecté dans le prompt.</p>
+  </div>
+</div>
+
+<!-- STACK -->
+<div class="stack">
+  <h2>🛠 Stack technique</h2>
+  <div class="stack-grid">
+    <div class="stack-item"><span class="stack-icon">⚛️</span> React 18 + Vite</div>
+    <div class="stack-item"><span class="stack-icon">🐍</span> FastAPI + Uvicorn</div>
+    <div class="stack-item"><span class="stack-icon">🦙</span> Ollama (local)</div>
+    <div class="stack-item"><span class="stack-icon">🧠</span> qwen2.5:1.5b</div>
+    <div class="stack-item"><span class="stack-icon">🔢</span> nomic-embed-text</div>
+    <div class="stack-item"><span class="stack-icon">🗄️</span> ChromaDB</div>
+    <div class="stack-item"><span class="stack-icon">⚡</span> SQLite Cache</div>
+    <div class="stack-item"><span class="stack-icon">🔗</span> LangChain</div>
+    <div class="stack-item"><span class="stack-icon">🌐</span> DuckDuckGo API</div>
+    <div class="stack-item"><span class="stack-icon">📡</span> SSE (streaming)</div>
+    <div class="stack-item"><span class="stack-icon">🔀</span> asyncio.Queue</div>
+    <div class="stack-item"><span class="stack-icon">🔌</span> Socket TCP direct</div>
+  </div>
+</div>
+
+</body>
+</html>

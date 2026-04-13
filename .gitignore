@@ -1,0 +1,50 @@
+# Environment
+.env
+*.env.*
+!.env.example
+
+# Data (PDFs, vectorstore, cache — too large and regenerable)
+data/raw/
+data/processed/
+data/vectorstore/
+data/response_cache.db
+data/*.db
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Logs
+logs/
+*.log
+uvicorn.log
+
+# Claude Code internals
+.claude/
+
+# Node / Frontend build artifacts
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Scratch / temp
+scratch/
